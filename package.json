@@ -1,0 +1,17 @@
+{
+  "name": "m3umerge",
+  "version": "1.0.0",
+  "description": "node js tool to run as daemonto create a new \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D \u001b[C\u001b[Dto create a new m3u file from multiple URL sources any time one of the sources changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "m3u",
+    "node",
+    "iptv",
+    "tools"
+  ],
+  "author": "wilbur shearer",
+  "license": "MIT"
+}

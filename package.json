@@ -16,6 +16,12 @@
   "author": "wilbur shearer",
   "license": "MIT",
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "lodash": "^4.17.15",
     "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wilburforce83/m3umerge.git"
   }
 }

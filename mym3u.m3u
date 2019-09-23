@@ -12,6 +12,252 @@ http://mysisli.com/36bay2/gin/giniko_bbcone_1000kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-name="BBC News UK" tvg-language="English" tvg-country="UK" tvg-id="BBC News UK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDB5C5H12kGI-Dg3BqjCQZG0oWVZubNsL0AYCeAeHye1u5eiLtcEccPw" group-title="Public-Entertainment",BBC News UK (Public-Entertainment) (UK) (English)
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,UK | BBC 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21772.m3u8
+#EXTINF:-1,UK | BBC 1 NORTHERN IRELAND HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21727.m3u8
+#EXTINF:-1,UK | BBC 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21771.m3u8
+#EXTINF:-1,UK | BBC 3 / CBBC HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21770.m3u8
+#EXTINF:-1,UK | BBC 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21769.m3u8
+#EXTINF:-1,UK | BBC CBBC HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21773.m3u8
+#EXTINF:-1,UK | BBC NEWS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21767.m3u8
+#EXTINF:-1,UK | BBC ONE SCOTLAND HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21725.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21694.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 10 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21685.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21693.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 3 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21692.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21691.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 5 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21690.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 6 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21689.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 7 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21688.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 8 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21687.m3u8
+#EXTINF:-1,UK | BBC RED BUTTON 9 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21686.m3u8
+#EXTINF:-1,.UK_=_BBC_1
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23333.m3u8
+#EXTINF:-1,.UK_=_BBC_1_Xtra
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23327.m3u8
+#EXTINF:-1,.UK_=_BBC_2
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23332.m3u8
+#EXTINF:-1,.UK_=_BBC_3
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23331.m3u8
+#EXTINF:-1,.UK_=_BBC_4
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23330.m3u8
+#EXTINF:-1,.UK_=_BBC_5
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23329.m3u8
+#EXTINF:-1,.UK_=_BBC_6
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23328.m3u8
+#EXTINF:-1,.UK_=_BBC_Scotland
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23323.m3u8
+#EXTINF:-1,.UK_=_BBC_Wales
+http://ppvplug.net:8000/live/XDxC3D6vic/OZoc5723hi/23324.m3u8
+#EXTINF:-1,UK | &TV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21726.m3u8
+#EXTINF:-1,UK | ALIBI HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21775.m3u8
+#EXTINF:-1,UK | AMC HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21684.m3u8
+#EXTINF:-1,UK | ANIMAL PLANET FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21676.m3u8
+#EXTINF:-1,UK | ANIMAL PLANET HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21774.m3u8
+#EXTINF:-1,UK | BLAZE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21675.m3u8
+#EXTINF:-1,UK | BLOOMBERG HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21782.m3u8
+#EXTINF:-1,UK | BOXNATION HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21700.m3u8
+#EXTINF:-1,UK | BT SPORTS 1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21821.m3u8
+#EXTINF:-1,UK | BT SPORTS 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21820.m3u8
+#EXTINF:-1,UK | BT SPORTS 3 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21819.m3u8
+#EXTINF:-1,UK | BT SPORTS ESPN HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21818.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 1
+http://shacktv.com:8080/live/Chuck1/Chuck123/21817.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21816.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 3
+http://shacktv.com:8080/live/Chuck1/Chuck123/21815.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 4
+http://shacktv.com:8080/live/Chuck1/Chuck123/21814.m3u8
+#EXTINF:-1,UK | BT SPORTS EXTRA 5
+http://shacktv.com:8080/live/Chuck1/Chuck123/21813.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 1
+http://shacktv.com:8080/live/Chuck1/Chuck123/21812.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21811.m3u8
+#EXTINF:-1,UK | BT SPORTS FHD 3
+http://shacktv.com:8080/live/Chuck1/Chuck123/21810.m3u8
+#EXTINF:-1,UK | CARTOON NETWORK HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21766.m3u8
+#EXTINF:-1,UK | CBEEBIES HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21768.m3u8
+#EXTINF:-1,UK | CHANNEL 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21765.m3u8
+#EXTINF:-1,UK | CHANNEL 5 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21764.m3u8
+#EXTINF:-1,UK | CHELSEA TV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21776.m3u8
+#EXTINF:-1,UK | CI HD (crime and investigation)
+http://shacktv.com:8080/live/Chuck1/Chuck123/21781.m3u8
+#EXTINF:-1,UK | CNN HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21763.m3u8
+#EXTINF:-1,UK | COMEDY CENTRAL FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21682.m3u8
+#EXTINF:-1,UK | COMEDY CENTRAL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21762.m3u8
+#EXTINF:-1,UK | DAVE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21761.m3u8
+#EXTINF:-1,UK | DISCOVERY FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21681.m3u8
+#EXTINF:-1,UK | DISCOVERY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21760.m3u8
+#EXTINF:-1,UK | DISNEY CHANNEL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21780.m3u8
+#EXTINF:-1,UK | DISNEY JUNIOR HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21697.m3u8
+#EXTINF:-1,UK | DISNEY XD HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21698.m3u8
+#EXTINF:-1,UK | E4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21759.m3u8
+#EXTINF:-1,UK | EDEN HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21758.m3u8
+#EXTINF:-1,UK | EUROSPORTS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21731.m3u8
+#EXTINF:-1,UK | EUROSPORTS HD 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21730.m3u8
+#EXTINF:-1,UK | FILM 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21757.m3u8
+#EXTINF:-1,UK | FOX HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21756.m3u8
+#EXTINF:-1,UK | GOOD FOOD HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21755.m3u8
+#EXTINF:-1,UK | HISTORY 2 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21754.m3u8
+#EXTINF:-1,UK | HISTORY FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21673.m3u8
+#EXTINF:-1,UK | HISTORY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21721.m3u8
+#EXTINF:-1,UK | ITV BE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21753.m3u8
+#EXTINF:-1,UK | ITV HD 1
+http://shacktv.com:8080/live/Chuck1/Chuck123/21752.m3u8
+#EXTINF:-1,UK | ITV HD 2
+http://shacktv.com:8080/live/Chuck1/Chuck123/21751.m3u8
+#EXTINF:-1,UK | ITV HD 3
+http://shacktv.com:8080/live/Chuck1/Chuck123/21750.m3u8
+#EXTINF:-1,UK | ITV HD 4
+http://shacktv.com:8080/live/Chuck1/Chuck123/21749.m3u8
+#EXTINF:-1,UK | ITV London HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21723.m3u8
+#EXTINF:-1,UK | LIFETIME HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21748.m3u8
+#EXTINF:-1,UK | MORE 4 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21747.m3u8
+#EXTINF:-1,UK | MTV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21746.m3u8
+#EXTINF:-1,UK | MTV LIVE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21745.m3u8
+#EXTINF:-1,UK | MUTV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21777.m3u8
+#EXTINF:-1,UK | NAT GEO HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21744.m3u8
+#EXTINF:-1,UK | NAT GEO WILD HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21743.m3u8
+#EXTINF:-1,UK | NICK HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21742.m3u8
+#EXTINF:-1,UK | RACING UK HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21729.m3u8
+#EXTINF:-1,UK | RTE ONE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21779.m3u8
+#EXTINF:-1,UK | RTE TWO  HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21778.m3u8
+#EXTINF:-1,UK | SKY ARTS FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21679.m3u8
+#EXTINF:-1,UK | SKY ARTS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21696.m3u8
+#EXTINF:-1,UK | Sky Atlantic HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21783.m3u8
+#EXTINF:-1,UK | SKY LIVING HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21740.m3u8
+#EXTINF:-1,UK | SKY NEWS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21739.m3u8
+#EXTINF:-1,UK | SKY ONE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21741.m3u8
+#EXTINF:-1,UK | SKY SPORTS ACTION HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21795.m3u8
+#EXTINF:-1,UK | SKY SPORTS ARENA HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21716.m3u8
+#EXTINF:-1,UK | SKY SPORTS CRICKET HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21796.m3u8
+#EXTINF:-1,UK | SKY SPORTS CRICKET SD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21715.m3u8
+#EXTINF:-1,UK | SKY SPORTS F1 HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21792.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD ACTION
+http://shacktv.com:8080/live/Chuck1/Chuck123/21789.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD ARENA
+http://shacktv.com:8080/live/Chuck1/Chuck123/21718.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD CRICKET
+http://shacktv.com:8080/live/Chuck1/Chuck123/21790.m3u8
+#EXTINF:-1,UK | SKY SPORTS F1 FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21786.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD FOOTBALL
+http://shacktv.com:8080/live/Chuck1/Chuck123/21717.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD GOLF
+http://shacktv.com:8080/live/Chuck1/Chuck123/21788.m3u8
+#EXTINF:-1,UK | SKY SPORTS MAIN EVENT FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21791.m3u8
+#EXTINF:-1,UK | SKY SPORTS FHD PREMIER LEAGUE
+http://shacktv.com:8080/live/Chuck1/Chuck123/21787.m3u8
+#EXTINF:-1,UK | SKY SPORTS FOOTBALL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21714.m3u8
+#EXTINF:-1,UK | SKY SPORTS GOLF HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21794.m3u8
+#EXTINF:-1,UK | SKY SPORTS MAIN EVENT HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21797.m3u8
+#EXTINF:-1,UK | SKY SPORTS MIX HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21785.m3u8
+#EXTINF:-1,UK | SKY SPORTS NEWS HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21784.m3u8
+#EXTINF:-1,UK | SKY SPORTS PREMIER LEAGUE HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21793.m3u8
+#EXTINF:-1,UK | SYFY HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21738.m3u8
+#EXTINF:-1,UK | TCM FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21674.m3u8
+#EXTINF:-1,UK | TCM HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21737.m3u8
+#EXTINF:-1,UK | TLC FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21678.m3u8
+#EXTINF:-1,UK | TLC HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21702.m3u8
+#EXTINF:-1,UK | UNIVERSAL FHD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21677.m3u8
+#EXTINF:-1,UK | UNIVERSAL HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21736.m3u8
+#EXTINF:-1,UK | UTV HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21735.m3u8
+#EXTINF:-1,UK | VICELAND HD
+http://shacktv.com:8080/live/Chuck1/Chuck123/21683.m3u8#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/02/logo_arise.png" group-title="UK",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 
@@ -123,7 +369,7 @@ https://www.youtube.com/watch?v=zVDUlc4mZW8
 #EXTINF:0 tvg-name="Sky News" tvg-language="English" tvg-country="UK" tvg-id="Sky News" tvg-logo="https://yt3.ggpht.com/-uYnyeu0wFpQ/AAAAAAAAAAI/AAAAAAAAAAA/VU2Ct3J_ZQw/s88-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="Public-Plex-Share",Sky News (Public-Plex-Share) (UK) (English)
 https://www.youtube.com/watch?v=y60wDzZt8yg
 
-#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 09-22-2019 20:30:13 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 09-22-2019 20:30:13 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0 tvg-name="Welcome to cCloudTV.ORG (Updated 09-23-2019 04:30:03 EST-US) the future of IPTV." tvg-language="English" tvg-country="US" tvg-id="Welcome to cCloudTV.ORG (Updated 09-23-2019 04:30:03 EST-US) the future of IPTV." tvg-logo="http://s30.postimg.cc/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg" group-title="Announcement",Welcome to cCloudTV.ORG the future of IPTV. (Announcement) (US) (English)
 https://archive.org/download/cCloud_20151126/cCloud.mp4
 
 #EXTINF:0 tvg-name="Beto TV" tvg-language="English" tvg-country="US" tvg-id="BETO tv" tvg-logo="http://www.userlogos.org/files/logos/14505_deva/ccloud1.png" group-title="Lifestyle",Beto TV (Lifestyle) (US) (English)
@@ -224,9 +470,6 @@ http://ott-live.olympicchannel.com/out/u/OC1_2.m3u8?fluxustv.m3u8
 
 #EXTINF:0 tvg-name="Yu-Gi-Oh 5ds" tvg-language="English" tvg-country="US" tvg-id="Yu-Gi-Oh 5ds" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9USNkedhzZXAo4GxI7dAh8ba8EsCKxap7WDDS3aCzkVU6zWDoNLNYQ" group-title="Public-RandomAirTime 24/7",Yu-Gi-Oh 5ds (Public-RandomAirTime 24/7) (US) (English)
 https://stitcher.pluto.tv/stitch/hls/channel/5c363ac9e41be30cb6054c7c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=b45b9ea1nuf9ijm985tiag4ge6
-
-#EXTINF:0 tvg-name="King of Queens" tvg-language="English" tvg-country="US" tvg-id="King of Queens" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKei-ul04sSTB18qBkJ0zgE40vH5XJrV8xZVeSEq6lvYDSIZ78BevQYg" group-title="Public-RandomAirTime 24/7",King of Queens (Public-RandomAirTime 24/7) (US) (English)
-https://nl2.streamlive.to/vlc/yytqkp7711cd1ze/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yMy8yMDE5IDEyOjA2OjI3IEFNJmhhc2hfdmFsdWU9bmpMeGtlNHQ4VHJ1Z25lVTJKdkVnUT09JnZhbGlkbWludXRlcz02MCZzdHJtX2xlbj0xOSZpZD0w
 
 #EXTINF:0 tvg-name="My Hero Academia Season 1 Episode 2" tvg-language="English" tvg-country="US" tvg-id="My Hero Academia Season 1 Episode 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrBSCFmq4zrhtPZRkPr-OAxIMqlQ9KbqdhCpWSPgqjpuRna0OjN81F_w" group-title="Public-Entertainment",My Hero Academia Season 1 Episode 2 (Public-Entertainment) (US) (English)
 https://22-cf-10fad4b4a7894c10a47117386cbbce08.vip1-lax1.dlvr1.net/2a239146-9179-11e9-8297-ab3a4fe47b3e/FunimationStoreFront/1605009/English/1605009_English_5508a6ae-cc5c-e911-8175-020165574d09_Layer5.m3u8

@@ -16,12 +16,12 @@ run()
 setInterval(run, 1000 * 60 * 60 * 6) //run every 6 hours
 
 function run() {
-
+    let UKTV = [];
     Global.UKTVsite.forEach(url => {
         request(url, function (err, resp, body) {
             if (err) throw err;
             var $ = cheerio.load(body);
-            let UKTV = [];
+
             $('a').each(function (i, element) {
                 var a = $(this);
                 //console.log(a.attr('href'));
@@ -32,9 +32,9 @@ function run() {
                 }
             })
             if (url === Global.UKTVsite[Global.UKTVsite.length - 1]) {
-                let baseChannels = UKTV.reverse().pop();
+                let baseChannels = UKTV;
                 console.log(baseChannels);
-                Global.m3uArr.push(baseChannels);
+                Global.m3uArr.concat(baseChannels);
                 console.log(Global.m3uArr)
 
 

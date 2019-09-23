@@ -1,4 +1,5 @@
 var Global = require('./lib/globals')
+var BBC = require('./lib/BBC')
 var _ = require('lodash');
 var request = require('request');
 var fs = require('fs');
@@ -119,6 +120,7 @@ function parseAndFilterAllChannels() {
         // console.log(thisfilter)
         processed.push(...thisfilter);
         if (channel === Global.channelsToKeep[Global.channelsToKeep.length - 1]) {
+            // console.log(processed);
             console.log('first pass channel count', processed.length);
             removeUnwantedChannels();
         }
@@ -137,12 +139,13 @@ function removeUnwantedChannels() {
         });
 
         if (remove === Global.channelsToLose[Global.channelsToLose.length - 1]) {
-
+            console.log(BBC)
             let unique = [...new Set(processed)];
+            unique = BBC.concat(unique);
 
             let channelNo = unique.length;
             Global.outputm3u = '#EXTM3U\n\n#EXTINF'.concat(unique.join('#EXTINF'));
-            // console.log(Global.outputm3u);
+            console.log(Global.outputm3u);
             console.log('Number of Channels;', channelNo);
             updateM3U();
         }

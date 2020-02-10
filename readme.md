@@ -1,22 +1,33 @@
-## Outline Design
+# M3U Merge
 
-### Channel Scraping
+A nodejs daemon to be run in conjunction with webgrab++ for creating and keeping bespoke m3u and epg data up to date. It has two methods of scraping:
 
-I will use cheerio to scrape websites which host .m3u files and scrape the links in to an array, then put all .m3u8 links into a single file.
+1. Scraping m3u8 info from websites using [cheerio](https://www.npmjs.com/package/cheerio). This is for automatically getting useful m3u8's from junk sites such as dailym3uiptv.com etc.
+
+2. Scraping an Array of known .m3u files for channels that you want to filter such as Ccloud's Atom.m3u.
+
+## Channel Scraping
+
+M3U Merge
 
 This can then be filtered based on users preference from the `Globals.js`
 
+### Embedded m3u data in websites (dynamic links, generally wordpress blog pages)
 
-### EPG data
+Websites with HTML based links which change daily in order to force you to manually download daily such as dailym3u etc can be placed in the `global.js` file under `"UKTVsite"` :
 
-I will use the node application to generate WebGrap+Plus's configuration data, allowing the EPG to be generated each time using the specific channels scraped and generated. the application will edit `WebGrab++.config.xml` file and the `.channels.xml`
+    "UKTVsite": ['https://www.dailym3uiptv.com/p/get-uk-iptv-links.html', 'https://www.dailym3uiptv.com/p/get-sports-iptv-links.html'], // website source for scraping M3U links,can have as many as you want as an array
 
-It will match the generated m3u #EXTINF lines to the channel XML and insert it i.e.
+### Permalink m3u's (e.g. Ccloud's Atom.m3u)
 
-`#EXTINF` containing "BBC2" will add:
+Simply add the .m3u links into the array in `globals.js` under `"m3uArr"`:
 
-`<channel site="tvguide.co.uk" site_id="89" update="i" xmltv_id="BBC2">BBC2</channel>`
+    "m3uArr": ['http://ccld.io/atom.m3u', 'https://another-magic-link.here'], // list of all m3u sources you are collecting from
 
-to the `.channels.xml`
+## EPG data
 
-WebGrab+Plus will likely just run on a cron job every day
+This is completed using [Webgrab+Plus](http://webgrabplus.com/download) which you will need to install in order to run m3umerge's epg functions.
+
+m3umerge scrape webgrab++'s `siteini.pack` folders for matching channel data and inserts the data into `WebGrab++.config.xml`
+
+m3umerge will then run `.wg++/run.sh` directly from node updating the epg.xml file.

@@ -10,6 +10,7 @@ var cheerio = require("cheerio");
 var toFind = ".m3u";
 const m3u8stream = require("m3u8stream");
 const IPTV = require("./iptv-checker/index.js");
+const shell = require("shelljs");
 
 IPTV.checkm3u(__dirname + "/mym3u.m3u");
 

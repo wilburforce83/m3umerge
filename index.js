@@ -1,18 +1,45 @@
-var Global = require('./lib/globals')
-var BBC = require('./lib/BBC')
-var _ = require('lodash');
-var request = require('request');
-var fs = require('fs');
-var processing = '';
+var Global = require("./lib/globals");
+var BBC = require("./lib/BBC");
+var _ = require("lodash");
+var request = require("request");
+var fs = require("fs");
+var processing = "";
 var processed = [];
 var UKTV = [];
-var cheerio = require('cheerio');
-var toFind = ".m3u"
+var cheerio = require("cheerio");
+var toFind = ".m3u";
+const m3u8stream = require("m3u8stream");
+const IPTV = require("./iptv-checker/index.js");
 
+IPTV.checkm3u(__dirname + "/mym3u.m3u");
 
+/*
 
+function testLinks() {
+  //where array is all plain m3u8 links
+}
 
+const func = () => {
+  var array = [
+    "https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a",
+    "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8",
+    "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8",
+    "http://185.246.209.109:8080/SEC_NETWORK/index.m3u8"
+  ];
+  array.forEach(element => {
+    m3u8stream(element).pipe(process.stdout);
+    Stream.end();
 
+    // push element to array
+  });
+};
+
+testLinks();
+func();
+
+process.on("uncaughtException", function(err) {
+  console.log("Caught exception: " + err, "BROKEN");
+});
 
 
 
@@ -151,3 +178,5 @@ function removeUnwantedChannels() {
         }
     })
 };
+
+*/

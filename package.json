@@ -17,8 +17,16 @@
   "license": "MIT",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "colors": "^1.4.0",
+    "commander": "^4.1.1",
+    "dateformat": "^3.0.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "iptv-playlist-parser": "^0.3.0",
     "lodash": "^4.17.15",
-    "request": "^2.88.0"
+    "m3u8stream": "^0.6.5",
+    "progress": "^2.0.3",
+    "request": "^2.88.0",
+    "url": "^0.11.0"
   },
   "repository": {
     "type": "git",

@@ -17,15 +17,39 @@ process.on("uncaughtException", function(err) {
   console.log("Caught exception: " + err, "BROKEN");
 });
 
+var collectChannelName = function(str) {
+  //console.log(str);
+  let regex = /,(.*?)\n/;
+  let matched = regex.exec(str);
+  // console.log(matched);
+  let result = matched.toString();
+  // console.log(result);
+  return result;
+};
+
 // Regex function to clean up m3u's for use with web grab ++
 
 var removeUselessWords = function(txt) {
-  var uselessWordsArray = ["UK", "USA", "IE", "IT"];
+  var uselessWordsArray = [
+    "UK",
+    "USA",
+    "IE",
+    "IT",
+    "CA",
+    "EXTM3U",
+    'tvg-id=""'
+  ];
 
   var expStr = uselessWordsArray.join("|");
-  return txt
+  txt = txt
     .replace(new RegExp("\\b(" + expStr + ")\\b", "gi"), " ")
-    .replace(/\s{2,}/g, " ");
+
+    .replace(/1(.*?),/g, "1,")
+    .replace(/0(.*?),/g, "-1,")
+    .replace(/# (.*?)\n/g, "");
+
+  //console.log(txt);
+  return txt;
 };
 
 //IPTV.checkm3u(__dirname + "/mym3u.m3u");
@@ -134,12 +158,15 @@ function scrapeURLS() {
 function parseAndFilterAllChannels() {
   processing = processing.replace(/[|]/g, ""); // remove pipes from m3u buffer
   processing = removeUselessWords(processing);
-  var channels = processing.split("#EXTINF:-1");
+  var channels = processing.split("#EXTINF:-1,");
   console.log("Raw Channel Number : ", channels.length);
   Global.channelsToKeep.forEach(channel => {
     //iterate filer over each channel
     let thisfilter = channels.filter(s => ~s.indexOf(channel));
-    console.log(thisfilter);
+    //console.log(thisfilter);
+
+    //console.log("Line Item = ", thisfilter);
+    // thisfilter = thisfilter.replace
     // process filtered #EXTINF to create new top line with tvg etc
     processed.push(...thisfilter);
     if (channel === Global.channelsToKeep[Global.channelsToKeep.length - 1]) {
@@ -162,8 +189,8 @@ function removeUnwantedChannels() {
       unique = BBC.concat(unique);
 
       let channelNo = unique.length;
-      Global.outputm3u = "#EXTM3U\n\n#EXT-X-VERSION:2\n\n#EXTINF:-1".concat(
-        unique.join("#EXTINF:-1")
+      Global.outputm3u = "#EXTM3U\n\n#EXT-X-VERSION:2\n\n#EXTINF:-1,".concat(
+        unique.join("#EXTINF:-1,")
       );
       // console.log(Global.outputm3u);
       console.log("Number of Channels;", channelNo);

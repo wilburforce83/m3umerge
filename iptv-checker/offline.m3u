@@ -1,79 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/www.broadbandtvnews.com/wp-content/uploads/2013/02/logo_arise.png" group-title="UK",Arise News (Server returned 404 Not Found)
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BBC_News_2019.svg/1200px-BBC_News_2019.svg.png" group-title="UK",BBC News (Server returned 403 Forbidden (access denied))
-https://1636691764.rsc.cdn77.org/LS-ATL-54548-11/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="UK",CNBC Europe (Server returned 403 Forbidden (access denied))
-http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV (Server returned 403 Forbidden (access denied))
-http://ott-cdn.ucom.am/s37/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/1280px-Euronews_2016_logo.svg.png" group-title="UK",Euronews (Server returned 404 Not Found)
-http://164.40.161.46:8002/play/s4
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6RKisov.png" group-title="UK",Fight Sports (New!) (Server returned 404 Not Found)
-http://45.126.83.51/uq2663/h/h05/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kxQFOKb.png" group-title="UK",High Street TV (Input/output error)
-https://e0e83836-f421-e353-7cd1-22710669e09f-fs-chf02-06.cdn.arqiva-ott-live.com/live-audio_track=64000-video=1100000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HKyWKar.png" group-title="UK",Jewellery Maker (Server returned 5XX Server Error reply)
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.marcroberts.ie/News/img_news/keep-it-country.png" group-title="UK",Keep It Country TV (Input/output error)
-http://cdn.fs-chf01-03-4ed412cd-27f7-09d8-bb30-72e28dab4eb1.arqiva-ott-live.com/live-audio_track=96000-video=1100000.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/QVC_logo_2015.png" group-title="UK",QVC Style (Invalid data found when processing input)
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/440px-VH1_logonew.svg.png" group-title="UK",VH1 (Connection timed out)
-http://85.244.70.140:7000/play/a012
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/8f4fv5U.png" group-title="USA",24-7 Retro TV (Server returned 403 Forbidden (access denied))
-http://247retrotv.com:1935/live/smil:247retro.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (KABC) (PST) (Server returned 403 Forbidden (access denied))
-http://content-ausc1.uplynk.com/channel/7f4366ed88e344da86947eb0fa080ec2/f.m3u8?exp=1527750966&ct=c&cid=7f4366ed88e344da86947eb0fa080ec2&sig=37af99214f85e55b1dfbec4030d06a8dee848131f8be1421ef36fbbae30e5387&pbs=cc5c74a2900d47b48ce4ec207b247a2d
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WJCL) (EST) (Connection refused)
-http://185.246.209.109:8080/ABC/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mz3b5QW.png" group-title="USA",ABC (WWSB) (EST) (Server returned 403 Forbidden (access denied))
-http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="USA",Boomerang (Connection refused)
-http://185.246.209.109:8080/BOOMERANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/azOTXMy.png" group-title="USA",Channel 7 (Server returned 404 Not Found)
-http://radio.7chan.org:8000/CH7
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC (Server returned 403 Forbidden (access denied))
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/800px-CNN.svg.png" group-title="USA",CNN (Server returned 403 Forbidden (access denied))
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA",CW (WTOG) (EST) (Connection refused)
-http://185.246.209.109:8080/CW/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gAZpfDP.png" group-title="USA",Dance Music TV (Server returned 404 Not Found)
-https://vcndmtv.teleosmedia.com/stream/dmtv/dmtv/seglist_720p.m3u8
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior (Server returned 403 Forbidden (access denied))
-https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ye3ckSd.png" group-title="USA",Edge Sport (Timeout exceeded)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5628000/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://d2po7v53a8yrck.cloudfront.net/static/2/Open/400x300_1845/Source/46374/epixhits_400x300_dark.png" group-title="USA",Epix Hits (Connection refused)
-http://185.246.209.109:8080/EPIX_HITS/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sAKaPkh.png" group-title="USA",ESPN Classic (Connection refused)
-http://185.246.209.109:8080/ESPN_CLASSIC/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1TfdG4l.png" group-title="USA",ESPN News (Connection refused)
-http://185.246.209.109:8080/ESPN_NEWS/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/af/EVINE_Logo.png" group-title="USA",Evine (Invalid data found when processing input)
-https://aos01-evine.secure.footprint.net/evine/dirty/Evine_Dirty_VIDEO_1_2064000.m3u8
-#EXTINF:-1 tvg-logo="https://spiintl.com/data/files/zdjecie/48/60/48600faa08efc021a07e742e85bd040a233f966cb1b4346f28d23b560ce75da3.png" group-title="USA",FightBox (Server returned 403 Forbidden (access denied))
-http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png" group-title="USA",Fox Business (Opt-1) (Server returned 403 Forbidden (access denied))
-https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxBusiness.us.png" group-title="USA",Fox Business (Opt-2) (Connection refused)
-http://185.246.209.109:8080/FOX_BUSINESS/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News (Connection timed out)
-http://23.237.22.82:8086/udp/127.0.0.1:56077
-#EXTINF:-1 tvg-logo="https://b.fssta.com/uploads/content/dam/fsdigital/fscom/shows/fs1/logo_fs1.vresize.1200.630.high.0.png" group-title="USA",Fox Sports 1 (Connection refused)
-http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Fuse_logo15.png" group-title="USA",Fuse (Connection refused)
-http://185.246.209.109:8080/FUSE/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fusion.png" group-title="USA",Fusion (Connection refused)
-http://185.246.209.109:8080/FUSION/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qcrsf49.png" group-title="USA",Global Fashion Channel (Input/output error)
-https://vcnglobalfashionchannel.teleosmedia.com/stream/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/EVivcpF.png" group-title="USA",Gol TV (Connection refused)
-http://185.246.209.109:8080/GOL_TV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA) (Invalid data found when processing input)
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="USA",HBO Zone (Connection refused)
-http://185.246.209.109:8080/HBO_ZONE/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/IFC_2014_logo.svg/1280px-IFC_2014_logo.svg.png" group-title="USA",IFC (Connection refused)
-http://185.246.209.109:8080/IFC/tracks-v1a1/index.m3u8
+#EXTINF:-1,tvg-logo="https://www.byutv.org/content/png-logos/byutv/app/square/1280x720.png" group-title="General",BYUTV (Server returned 404 Not Found)
+https://byubhls-i.akamaihd.net/hls/live/267187/byutvhls/master.m3u8
+#EXTINF:-1,tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/59120e45877eeb3760b3d9da/featuredImage.jpg" group-title="General",Gravitas Movies (Server returned 4XX Client Error, but not one of 40{0,1,3,4})
+https://dai.google.com/linear/hls/pa/event/EpqgwRlpQKq73ySVSohJWA/stream/f3b56329-3ec7-4684-948c-4194ef970a86:CBF2/master.m3u8
+#EXTINF:-1,tvg-logo="https://i.ytimg.com/vi/6sopMvVTmGc/hqdefault.jpg" group-title="Live",Law & Crime 4 (Server returned 404 Not Found)
+https://live-lawandcrime.simplestreamcdn.com/landc_d4/live.m3u8
+#EXTINF:-1,tvg-logo="https://i.ytimg.com/vi/cSJsoHA8xdg/hqdefault.jpg" group-title="General",MovieMix (Server returned 4XX Client Error, but not one of 40{0,1,3,4})
+https://dai.google.com/linear/hls/pa/event/TSIJo6RCRZWuCD9WrKtRFg/stream/a468bdd3-a0e5-4a4b-bae7-3e784ee5f4e4:CBF2/master.m3u8
+#EXTINF:-1,tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2016/04/MTV-TV-shows-canceled-or-renewed.jpg" group-title="General",MTV (Timeout exceeded)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1,tvg-logo="http://www.coolstreaming.us/img/ch/image8920332510.jpg" group-title="General",POPSTAR! (Server returned 404 Not Found)
+https://vcnpopstar.teleosmedia.com/stream/popstar/livefeed/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://i.imgur.com/QAjjSZS.jpg" group-title="General",SupTV (Connection timed out)
+http://91.134.238.137/live/goat/index.m3u8
+#EXTINF:-1,tvg-logo="https://i.ytimg.com/vi/Rq-7s5SC6ew/hqdefault_live.jpg" group-title="General",TACH (Connection refused)
+https://hlsdpi-cdn-as4.totalstream.net/dpilive/vidilliontv/vtv/tach/playlist.m3u8
+#EXTINF:-1,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjAnx-w2g-kAvZKsEeJNf1R1lqXIUlxz-ChJV-y6eJL00PpY1_" group-title="General",TUFF TV (Input/output error)
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv1/playlist.m3u8
+#EXTINF:-1,tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/58e2cd77a84e99942f414e68/featuredImage.jpg" group-title="General",What's On Pluto (Server returned 404 Not Found)
+https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
+#EXTINF:-1,tvg-logo="https://format-com-cld-res.cloudinary.com/image/private/s--DxRqfBZa--/c_limit,g_center,h_65535,w_960/a_auto,fl_keep_iptc.progressive,q_95/v1/11ad99b9236bdedd92b2b2180fc5517d/YES-TV-CLICK-CLICK-sample.gif" group-title="General",Yes TV (Server returned 403 Forbidden (access denied))
+http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
+#EXTINF:-1,Fox (Server returned 403 Forbidden (access denied))
+http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17611.m3u8

@@ -11,173 +11,163 @@ var toFind = ".m3u";
 const m3u8stream = require("m3u8stream");
 const IPTV = require("./iptv-checker/index.js");
 const shell = require("shelljs");
-
-IPTV.checkm3u(__dirname + "/mym3u.m3u");
-
-/*
-
-function testLinks() {
-  //where array is all plain m3u8 links
-}
-
-const func = () => {
-  var array = [
-    "https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a",
-    "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_england.m3u8",
-    "http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_four.m3u8",
-    "http://185.246.209.109:8080/SEC_NETWORK/index.m3u8"
-  ];
-  array.forEach(element => {
-    m3u8stream(element).pipe(process.stdout);
-    Stream.end();
-
-    // push element to array
-  });
-};
-
-testLinks();
-func();
+var colors = require("colors");
 
 process.on("uncaughtException", function(err) {
   console.log("Caught exception: " + err, "BROKEN");
 });
 
+// Regex function to clean up m3u's for use with web grab ++
 
+var removeUselessWords = function(txt) {
+  var uselessWordsArray = ["UK", "USA", "IE", "IT"];
 
-run()
-setInterval(run, 1000 * 60 * 60 * 6) //run every 6 hours
+  var expStr = uselessWordsArray.join("|");
+  return txt
+    .replace(new RegExp("\\b(" + expStr + ")\\b", "gi"), " ")
+    .replace(/\s{2,}/g, " ");
+};
+
+//IPTV.checkm3u(__dirname + "/mym3u.m3u");
+
+run();
+setInterval(run, 1000 * 60 * 60 * 6); //run every 6 hours
 
 function run() {
-    processing = '';
-    processed = [];
-    UKTV = Global.m3uArr;
+  processing = "";
+  processed = [];
+  UKTV = Global.m3uArr;
 
-    // For each source page scrape HTML for all m3u download links and add to array UKTV
+  // For each source page scrape HTML for all m3u download links and add to array UKTV
+  if (Global.UKTVsite.length >= 1) {
+    console.log("Found IPTV site links".green);
     Global.UKTVsite.forEach(url => {
-        request(url, function (err, resp, body) {
-            if (err) throw err;
-            var $ = cheerio.load(body);
+      request(url, function(err, resp, body) {
+        if (err) {
+          console.log("function run() -> UKTVsite.forEach :", err);
+          return;
+        }
+        var $ = cheerio.load(body);
 
-            $('a').each(function (i, element) {
-                var a = $(this);
-                var href = a.attr('href');
-                // console.log('length', $('a').length - 2);
-                // console.log('i =', i);
-                if (href && href.indexOf(toFind) != -1) {
-                    UKTV.push(href)
-
-                }
-                if (i === $('a').length - 1) {
-                    scrapeURLS();
-                }
-            })
-        })
-
-    })
-};
-
-
-
-
-
-
-const filterChannels = (remove) => {
-    return processed.filter(chan => chan.indexOf(remove) == -1);
+        $("a").each(function(i, element) {
+          var a = $(this);
+          var href = a.attr("href");
+          console.log("length", $("a").length - 2);
+          console.log("i =", i);
+          if (href && href.indexOf(toFind) != -1) {
+            UKTV.push(href);
+          }
+          if (url === UKTVsite.slice(-1)) {
+            scrapeURLS();
+          }
+          if (UKTVsite.length == 1) {
+            scrapeURLS();
+          }
+        });
+      });
+    });
+  } else {
+    console.log(
+      "No Website Scraping URL's found. Ignoring web scraping...".yellow
+    );
+    scrapeURLS();
+  }
 }
 
-
-
-
-
-
-
+const filterChannels = remove => {
+  return processed.filter(chan => chan.indexOf(remove) == -1);
+};
 
 function updateM3U() {
+  const file = "./mym3u.m3u";
 
-    const file = './mym3u.m3u'
-
-    fs.writeFile(file, Global.outputm3u, (err) => {
-        if (err) {
-            console.log('error creating new m3u file');
-        } else {
-            console.log('updated your m3u');
-            console.log('waiting for next run...')
-        }
-    });
+  fs.writeFile(file, Global.outputm3u, err => {
+    if (err) {
+      console.log("error creating new m3u file".yellow);
+    } else {
+      console.log("updated your m3u".green);
+      console.log(
+        "Running m3u8 link testing. Offline links will be removed.".blue
+      );
+      setTimeout(function() {
+        IPTV.checkm3u(__dirname + "/mym3u.m3u");
+        console.log("Completed m3u8 testing!");
+        console.log("waiting for next run...".blue);
+      }, 15000);
+    }
+  });
 }
 
-
-
-
-
-
-
 function scrapeURLS() {
-
-    console.log(UKTV)
+  if (Global.m3uArr.length >= 1) {
+    console.log(UKTV);
+    console.log("parsing websites for m3u's");
     UKTV.forEach(URL => {
-        request.get(URL, function (error, response, body) {
-            if (!error && response.statusCode == 200) {
-                processing = processing.concat(body);
-                // Continue with your processing here.
-                console.log('completed M3U scrape for', URL);
-                if (URL === UKTV[UKTV.length - 1]) {
-                    parseAndFilterAllChannels()
-                }
-            } else(
-                console.log('URLscraping failed, M3U missing @', URL)
-            )
-        })
-    })
-};
-
-
-
-
-
-
+      request.get(URL, function(error, response, body) {
+        if (!error && response.statusCode == 200) {
+          processing = processing.concat(body);
+          // Continue with your processing here.
+          console.log("completed M3U scrape for", URL);
+          if (URL === UKTV[UKTV.length - 1]) {
+            setTimeout(function() {
+              parseAndFilterAllChannels();
+            }, 15000);
+          }
+        } else {
+          console.log("URLscraping failed, M3U missing @", URL);
+          if (URL === UKTV[UKTV.length - 1]) {
+            setTimeout(function() {
+              parseAndFilterAllChannels();
+            }, 15000);
+          }
+        }
+      });
+    });
+  } else {
+    console.log("No m3u links found in Array, ignoring...".yellow);
+    setTimeout(function() {
+      parseAndFilterAllChannels();
+    }, 5000);
+  }
+}
 
 function parseAndFilterAllChannels() {
-
-    var channels = processing.split('#EXTINF');
-    console.log('done', channels.length);
-    Global.channelsToKeep.forEach(channel => {
-
-        //iterate filer over each channel
-        let thisfilter = channels.filter(s => ~s.indexOf(channel))
-        // console.log(thisfilter)
-        processed.push(...thisfilter);
-        if (channel === Global.channelsToKeep[Global.channelsToKeep.length - 1]) {
-            // console.log(processed);
-            console.log('first pass channel count', processed.length);
-            removeUnwantedChannels();
-        }
-    })
-};
-
-
-
+  processing = processing.replace(/[|]/g, ""); // remove pipes from m3u buffer
+  processing = removeUselessWords(processing);
+  var channels = processing.split("#EXTINF:-1");
+  console.log("Raw Channel Number : ", channels.length);
+  Global.channelsToKeep.forEach(channel => {
+    //iterate filer over each channel
+    let thisfilter = channels.filter(s => ~s.indexOf(channel));
+    console.log(thisfilter);
+    // process filtered #EXTINF to create new top line with tvg etc
+    processed.push(...thisfilter);
+    if (channel === Global.channelsToKeep[Global.channelsToKeep.length - 1]) {
+      // console.log(processed);
+      console.log("First pass channel count", processed.length);
+      removeUnwantedChannels();
+    }
+  });
+}
 
 function removeUnwantedChannels() {
+  Global.channelsToLose.forEach(remove => {
+    _.remove(processed, function(n) {
+      return n.includes(remove);
+    });
 
-    Global.channelsToLose.forEach(remove => {
+    if (remove === Global.channelsToLose[Global.channelsToLose.length - 1]) {
+      //console.log(BBC);
+      let unique = [...new Set(processed)];
+      unique = BBC.concat(unique);
 
-        _.remove(processed, function (n) {
-            return n.includes(remove);
-        });
-
-        if (remove === Global.channelsToLose[Global.channelsToLose.length - 1]) {
-            console.log(BBC)
-            let unique = [...new Set(processed)];
-            unique = BBC.concat(unique);
-
-            let channelNo = unique.length;
-            Global.outputm3u = '#EXTM3U\n\n#EXTINF'.concat(unique.join('#EXTINF'));
-            console.log(Global.outputm3u);
-            console.log('Number of Channels;', channelNo);
-            updateM3U();
-        }
-    })
-};
-
-*/
+      let channelNo = unique.length;
+      Global.outputm3u = "#EXTM3U\n\n#EXT-X-VERSION:2\n\n#EXTINF:-1".concat(
+        unique.join("#EXTINF:-1")
+      );
+      // console.log(Global.outputm3u);
+      console.log("Number of Channels;", channelNo);
+      updateM3U();
+    }
+  });
+}

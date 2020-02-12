@@ -1,5 +1,5 @@
 module.exports.checkm3u = m3uFile => {
-  process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
+  //process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
 
   const helper = require("./helper");
   const fs = require("fs");
@@ -34,15 +34,15 @@ module.exports.checkm3u = m3uFile => {
     offline: 0,
     duplicates: 0
   };
-
-  init();
+  setTimeout(function() {
+    init();
+  }, 5000);
 
   async function init() {
     console.time("Execution time");
-
+    console.log("Started Parsing m3u8's...".yellow);
+    console.log(m3uFile);
     playlist = helper.parsePlaylist(m3uFile);
-
-    bar = new ProgressBar(":bar", { total: stats.total });
 
     for (let item of playlist.items) {
       if (!item.url) continue;

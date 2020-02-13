@@ -18,12 +18,16 @@ process.on("uncaughtException", function(err) {
 });
 
 var collectChannelName = function(str) {
-  //console.log(str);
-  let regex = /,(.*?)\n/;
-  let matched = regex.exec(str);
-  // console.log(matched);
+  str = str.toString()
+ 
+  let matched = str.replace(/,(.*?),/g, ",")
+  //remove links
+  .replace(/\n(.*?)m3u8/g, "")
+  //remove link tokens
+  .replace(/\?token=(.*?)=/g, "");
+  
   let result = matched.toString();
-  // console.log(result);
+ //console.log(result);
   return result;
 };
 
@@ -36,6 +40,9 @@ var removeUselessWords = function(txt) {
     "IE",
     "IT",
     "CA",
+    "ES",
+    "SUI",
+    "PT",
     "EXTM3U",
     'tvg-id=""'
   ];
@@ -46,6 +53,7 @@ var removeUselessWords = function(txt) {
 
     .replace(/1(.*?),/g, "1,")
     .replace(/0(.*?),/g, "-1,")
+    .replace(/\(.*?\)/g, "")
     .replace(/# (.*?)\n/g, "");
 
   //console.log(txt);
@@ -164,10 +172,6 @@ function parseAndFilterAllChannels() {
     //iterate filer over each channel
     let thisfilter = channels.filter(s => ~s.indexOf(channel));
     //console.log(thisfilter);
-
-    //console.log("Line Item = ", thisfilter);
-    // thisfilter = thisfilter.replace
-    // process filtered #EXTINF to create new top line with tvg etc
     processed.push(...thisfilter);
     if (channel === Global.channelsToKeep[Global.channelsToKeep.length - 1]) {
       // console.log(processed);
@@ -186,7 +190,9 @@ function removeUnwantedChannels() {
     if (remove === Global.channelsToLose[Global.channelsToLose.length - 1]) {
       //console.log(BBC);
       let unique = [...new Set(processed)];
+     // collectChannelName(unique);
       unique = BBC.concat(unique);
+
 
       let channelNo = unique.length;
       Global.outputm3u = "#EXTM3U\n\n#EXT-X-VERSION:2\n\n#EXTINF:-1,".concat(
@@ -198,3 +204,4 @@ function removeUnwantedChannels() {
     }
   });
 }
+

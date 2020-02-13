@@ -82,242 +82,368 @@ http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-604/mp4:Tufftv1/playlist.m
 https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1, tvg-logo="https://format-com-cld-res.cloudinary.com/image/private/s--DxRqfBZa--/c_limit,g_center,h_65535,w_96-1,fl_keep_iptc.progressive,q_95/v1,Yes TV
 http://stream-live-edge-a01.crossroadscloud.com:8081/yestv-ont-multibit/yestv-ont-multibit/playlist.m3u8
-#EXTINF:-1,  BBC 1
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17653.m3u8
-#EXTINF:-1,  BBC 2
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17652.m3u8
-#EXTINF:-1,  BBC 3
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17651.m3u8
-#EXTINF:-1,  BBC 4
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17650.m3u8
-#EXTINF:-1,   ITV 1
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17699.m3u8
-#EXTINF:-1,   Channel 4
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/27276.m3u8
-#EXTINF:-1,   Channel 5 
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/27278.m3u8
-#EXTINF:-1,   ITV 2
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17700.m3u8
-#EXTINF:-1,   ITV 3
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17701.m3u8
-#EXTINF:-1,   ITV 4
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17702.m3u8
-#EXTINF:-1,   ITV Be
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17703.m3u8
-#EXTINF:-1,   Channel 4 +1
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/27277.m3u8
-#EXTINF:-1,  E4 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17613.m3u8
-#EXTINF:-1,  E4
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17614.m3u8
-#EXTINF:-1,  More 4 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17615.m3u8
-#EXTINF:-1,  More 4
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17616.m3u8
-#EXTINF:-1,  4Music
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17618.m3u8
-#EXTINF:-1,  4seven
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17617.m3u8
-#EXTINF:-1,   Channel 5 +1
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/27279.m3u8
-#EXTINF:-1,  5 Star
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17626.m3u8
-#EXTINF:-1,   5  
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17625.m3u8
-#EXTINF:-1,   Dave
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/27280.m3u8
-#EXTINF:-1,  Gold
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17607.m3u8
-#EXTINF:-1,  Alibi
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17612.m3u8
-#EXTINF:-1,  Really
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17608.m3u8
-#EXTINF:-1,  Drama
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17619.m3u8
-#EXTINF:-1,  Yesterday HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17624.m3u8
-#EXTINF:-1,  Blaze
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17628.m3u8
-#EXTINF:-1,  CBS Reality
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17620.m3u8
-#EXTINF:-1,  CBS Justice
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17621.m3u8
-#EXTINF:-1,  CBS Action
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17622.m3u8
-#EXTINF:-1,  TLC
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17629.m3u8
-#EXTINF:-1,   Foodnetwork
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/36155.m3u8
-#EXTINF:-1,  Fox
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17611.m3u8
-#EXTINF:-1,  Sky Living
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17633.m3u8
-#EXTINF:-1,  Sky Arts
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17630.m3u8
-#EXTINF:-1,   Sky Atlantic FHD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17631.m3u8
-#EXTINF:-1,  Sky News
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17632.m3u8
-#EXTINF:-1,  BBC News HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17635.m3u8
-#EXTINF:-1,  BBC World News
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17648.m3u8
-#EXTINF:-1,  BBC One Scotland
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17654.m3u8
-#EXTINF:-1,  BBC Two Scotland
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17655.m3u8
-#EXTINF:-1,  BBC Alba
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17649.m3u8
-#EXTINF:-1,  Fox News HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17610.m3u8
-#EXTINF:-1,  CNN HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17634.m3u8
-#EXTINF:-1,  CNBC News
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17636.m3u8
-#EXTINF:-1,  DMAX HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17638.m3u8
-#EXTINF:-1,  Quest
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17647.m3u8
-#EXTINF:-1,  Quest Red
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17646.m3u8
-#EXTINF:-1,  Discovery
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17642.m3u8
-#EXTINF:-1,  Discovery Science
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17640.m3u8
-#EXTINF:-1,  Discovery Turbo
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17639.m3u8
-#EXTINF:-1,  Discovery Investigation
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17637.m3u8
-#EXTINF:-1,  Crime & Investigation HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17645.m3u8
-#EXTINF:-1,  Discovery History
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17641.m3u8
-#EXTINF:-1,  History HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17643.m3u8
-#EXTINF:-1,  H2
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17644.m3u8
-#EXTINF:-1,  Sky Sport News
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17669.m3u8
-#EXTINF:-1,  Sky Sports News HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17666.m3u8
-#EXTINF:-1,  Sky Sport Main Events
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17671.m3u8
-#EXTINF:-1,  Sky Sport Main Events HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17670.m3u8
-#EXTINF:-1,  Sky Sport Premier League HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17668.m3u8
-#EXTINF:-1,  Sky Sport Arena HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17675.m3u8
-#EXTINF:-1,  Sky Sport Action HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17676.m3u8
-#EXTINF:-1,  Sky Sport Cricket
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17674.m3u8
-#EXTINF:-1,  Sky Sport Golf HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17672.m3u8
-#EXTINF:-1,  Sky Sport Golf
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17673.m3u8
-#EXTINF:-1,  Sky Sports MIX
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17667.m3u8
-#EXTINF:-1,  BT Sports 1 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17679.m3u8
-#EXTINF:-1,  BT Sports 2 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17678.m3u8
-#EXTINF:-1,  BT Sports 3 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17677.m3u8
-#EXTINF:-1,  BT Sport 1
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17689.m3u8
-#EXTINF:-1,  BT Sport 2
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17688.m3u8
-#EXTINF:-1,  BT Sport 3
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17687.m3u8
-#EXTINF:-1,  BT Sport ESPN HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17686.m3u8
-#EXTINF:-1,  BT Sport Extra
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17685.m3u8
-#EXTINF:-1,  BT Sport Extra 1
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17684.m3u8
-#EXTINF:-1,  BT Sport Extra 2
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17683.m3u8
-#EXTINF:-1,  BT Sport Extra 3
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17682.m3u8
-#EXTINF:-1,  BT Sport Extra 4
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17681.m3u8
-#EXTINF:-1,   EIR SPORTS 1 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34855.m3u8
-#EXTINF:-1,   EIR SPORTS 2 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34856.m3u8
-#EXTINF:-1,  Box Nation HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17690.m3u8
-#EXTINF:-1,   FRONT RUNNER SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34869.m3u8
-#EXTINF:-1,  Sky Movies Premiere
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17660.m3u8
-#EXTINF:-1,  Sky Movies Select
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17658.m3u8
-#EXTINF:-1,  Sky Movies Action & Adv
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17665.m3u8
-#EXTINF:-1,  Sky Movies Comedy
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17664.m3u8
-#EXTINF:-1,  Sky Movies Thriller
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17656.m3u8
-#EXTINF:-1,  Sky Movies Sci-Fi
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17659.m3u8
-#EXTINF:-1,  Sky Movies Showcase
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17657.m3u8
-#EXTINF:-1,  Sky Movies Family
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17662.m3u8
-#EXTINF:-1,  Sky Movies Drama
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17663.m3u8
-#EXTINF:-1,   Sky One HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/41699.m3u8
-#EXTINF:-1,   Sky Two SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/41700.m3u8
-#EXTINF:-1,   Film4 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/41701.m3u8
-#EXTINF:-1,  Star Gold
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17606.m3u8
-#EXTINF:-1,  Universal Channel HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17609.m3u8
-#EXTINF:-1,  Five
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/17627.m3u8
-#EXTINF:-1,   RTE ONE HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34849.m3u8
-#EXTINF:-1,   RTE ONE SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34859.m3u8
-#EXTINF:-1,   RTE TWO HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34850.m3u8
-#EXTINF:-1,   RTE NEWS SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34858.m3u8
-#EXTINF:-1,   VIRGIN MEDIA ONE HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34851.m3u8
-#EXTINF:-1,   VIRGIN MEDIA TWO HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34870.m3u8
-#EXTINF:-1,   VIRGIN MEDI TWO SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34871.m3u8
-#EXTINF:-1,   VIRGIN MEDIA THREE HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34852.m3u8
-#EXTINF:-1,   TG4 HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34853.m3u8
-#EXTINF:-1,   S4C HD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34854.m3u8
-#EXTINF:-1,   RTE TWO SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34860.m3u8
-#EXTINF:-1,   SKY NEWS IRELAND SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34861.m3u8
-#EXTINF:-1,   RTE JUNIOR SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34862.m3u8
-#EXTINF:-1,   S4C SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34863.m3u8
-#EXTINF:-1,   TG4 SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34864.m3u8
-#EXTINF:-1,   VIRGIN MEDIA ONE SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34865.m3u8
-#EXTINF:-1,   VIRGIN MEDIA THREE SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34866.m3u8
-#EXTINF:-1,   EIR SPORTS 1 SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34867.m3u8
-#EXTINF:-1,   EIR SPORTS 2 SD
-http://tnci.tv:80/live/Tk1tdWPoxP/Z1PW8QCbPi/34868.m3u8# 
+#EXTINF:-1,   A&E
+http://shacktv.com:8080/live/Ruby1/Ruby123/446.m3u8
+#EXTINF:-1,   ABC EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/445.m3u8
+#EXTINF:-1,   ABC SPARK HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/444.m3u8
+#EXTINF:-1,   ABC WEST
+http://shacktv.com:8080/live/Ruby1/Ruby123/443.m3u8
+#EXTINF:-1,   ACTION
+http://shacktv.com:8080/live/Ruby1/Ruby123/347.m3u8
+#EXTINF:-1,   ADDIK TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/346.m3u8
+#EXTINF:-1,   AHC
+http://shacktv.com:8080/live/Ruby1/Ruby123/320.m3u8
+#EXTINF:-1,   AMC HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/442.m3u8
+#EXTINF:-1,   ANIMAL PLANET
+http://shacktv.com:8080/live/Ruby1/Ruby123/441.m3u8
+#EXTINF:-1,   APTN
+http://shacktv.com:8080/live/Ruby1/Ruby123/345.m3u8
+#EXTINF:-1,   ARTV
+http://shacktv.com:8080/live/Ruby1/Ruby123/344.m3u8
+#EXTINF:-1,   BBC CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/343.m3u8
+#EXTINF:-1,   BBC WORLD NEWS
+http://shacktv.com:8080/live/Ruby1/Ruby123/440.m3u8
+#EXTINF:-1,   BET
+http://shacktv.com:8080/live/Ruby1/Ruby123/439.m3u8
+#EXTINF:-1,   BNN BLOOMBERG HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/438.m3u8
+#EXTINF:-1,   BOOK TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/437.m3u8
+#EXTINF:-1,   BRAVO
+http://shacktv.com:8080/live/Ruby1/Ruby123/436.m3u8
+#EXTINF:-1,   CANAL D
+http://shacktv.com:8080/live/Ruby1/Ruby123/341.m3u8
+#EXTINF:-1,   CANAL SAVOIR
+http://shacktv.com:8080/live/Ruby1/Ruby123/435.m3u8
+#EXTINF:-1,   CARTOON NETWORK
+http://shacktv.com:8080/live/Ruby1/Ruby123/434.m3u8
+#EXTINF:-1,   CASA
+http://shacktv.com:8080/live/Ruby1/Ruby123/433.m3u8
+#EXTINF:-1,   CBC NEWS
+http://shacktv.com:8080/live/Ruby1/Ruby123/432.m3u8
+#EXTINF:-1,   CBC OTTAWA
+http://shacktv.com:8080/live/Ruby1/Ruby123/319.m3u8
+#EXTINF:-1,   CBC TORONTO
+http://shacktv.com:8080/live/Ruby1/Ruby123/431.m3u8
+#EXTINF:-1,   CBC VANCOUVER
+http://shacktv.com:8080/live/Ruby1/Ruby123/318.m3u8
+#EXTINF:-1,   CBS EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/430.m3u8
+#EXTINF:-1,   CBS WEST
+http://shacktv.com:8080/live/Ruby1/Ruby123/317.m3u8
+#EXTINF:-1,   CHCH HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/429.m3u8
+#EXTINF:-1,   CINEPOP
+http://shacktv.com:8080/live/Ruby1/Ruby123/316.m3u8
+#EXTINF:-1,   CITY TORONTO HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/428.m3u8
+#EXTINF:-1,   CITY VANCOUVER
+http://shacktv.com:8080/live/Ruby1/Ruby123/340.m3u8
+#EXTINF:-1,   CMT CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/427.m3u8
+#EXTINF:-1,   CNBC
+http://shacktv.com:8080/live/Ruby1/Ruby123/426.m3u8
+#EXTINF:-1,   CNN
+http://shacktv.com:8080/live/Ruby1/Ruby123/425.m3u8
+#EXTINF:-1,   CNN INTERNATIONAL
+http://shacktv.com:8080/live/Ruby1/Ruby123/424.m3u8
+#EXTINF:-1,   COMEDY EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/315.m3u8
+#EXTINF:-1,   COMEDY GOLD
+http://shacktv.com:8080/live/Ruby1/Ruby123/423.m3u8
+#EXTINF:-1,   COOKING CHANNEL
+http://shacktv.com:8080/live/Ruby1/Ruby123/422.m3u8
+#EXTINF:-1,   NATIONAL GEO WILD HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/421.m3u8
+#EXTINF:-1,   COTTAGE LIFE
+http://shacktv.com:8080/live/Ruby1/Ruby123/420.m3u8
+#EXTINF:-1,   CP24
+http://shacktv.com:8080/live/Ruby1/Ruby123/419.m3u8
+#EXTINF:-1,   CPAC FRENCH
+http://shacktv.com:8080/live/Ruby1/Ruby123/417.m3u8
+#EXTINF:-1,   CPAC HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/418.m3u8
+#EXTINF:-1,   CRIME & INVEST
+http://shacktv.com:8080/live/Ruby1/Ruby123/416.m3u8
+#EXTINF:-1,   CTV 2 VANCOUVER
+http://shacktv.com:8080/live/Ruby1/Ruby123/415.m3u8
+#EXTINF:-1,   CTV NEWS NETWORK
+http://shacktv.com:8080/live/Ruby1/Ruby123/414.m3u8
+#EXTINF:-1,   CTV OTTAWA
+http://shacktv.com:8080/live/Ruby1/Ruby123/413.m3u8
+#EXTINF:-1,   CTV TORONTO
+http://shacktv.com:8080/live/Ruby1/Ruby123/412.m3u8
+#EXTINF:-1,   CTV VANCOUVER
+http://shacktv.com:8080/live/Ruby1/Ruby123/314.m3u8
+#EXTINF:-1,   CTV2 OTTAWA
+http://shacktv.com:8080/live/Ruby1/Ruby123/313.m3u8
+#EXTINF:-1,   CW 11
+http://shacktv.com:8080/live/Ruby1/Ruby123/411.m3u8
+#EXTINF:-1,   DAYSTAR TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/410.m3u8
+#EXTINF:-1,   DEJAVIEW
+http://shacktv.com:8080/live/Ruby1/Ruby123/409.m3u8
+#EXTINF:-1,   DISCOVERY CHANNEL HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/312.m3u8
+#EXTINF:-1,   DISCOVERY SCIENCE CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/311.m3u8
+#EXTINF:-1,   DISCOVERY VELOCITY
+http://shacktv.com:8080/live/Ruby1/Ruby123/408.m3u8
+#EXTINF:-1,   DISNEY HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/407.m3u8
+#EXTINF:-1,   DISNEY FRENCH
+http://shacktv.com:8080/live/Ruby1/Ruby123/406.m3u8
+#EXTINF:-1,   DISNEY JR HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/309.m3u8
+#EXTINF:-1,   DIY NETWORK
+http://shacktv.com:8080/live/Ruby1/Ruby123/405.m3u8
+#EXTINF:-1,   DOCUMENTARY
+http://shacktv.com:8080/live/Ruby1/Ruby123/404.m3u8
+#EXTINF:-1,   DTOUR HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/403.m3u8
+#EXTINF:-1,   E! HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/308.m3u8
+#EXTINF:-1,   ENCORE 1 EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/402.m3u8
+#EXTINF:-1,   ENCORE 2 EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/307.m3u8
+#EXTINF:-1,   FAMILY CHRGD
+http://shacktv.com:8080/live/Ruby1/Ruby123/401.m3u8
+#EXTINF:-1,   FAMILY EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/306.m3u8
+#EXTINF:-1,   FIGHT NETWORK
+http://shacktv.com:8080/live/Ruby1/Ruby123/400.m3u8
+#EXTINF:-1,   FOOD NETWORK HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/399.m3u8
+#EXTINF:-1,   FOX EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/304.m3u8
+#EXTINF:-1,   FOX WEST
+http://shacktv.com:8080/live/Ruby1/Ruby123/397.m3u8
+#EXTINF:-1,   FOX NEWS
+http://shacktv.com:8080/live/Ruby1/Ruby123/398.m3u8
+#EXTINF:-1,   FTV CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/303.m3u8
+#EXTINF:-1,   FYI HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/395.m3u8
+#EXTINF:-1,   Game TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/302.m3u8
+#EXTINF:-1,   GINX ESPORTS TV CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/301.m3u8
+#EXTINF:-1,   GLOBAL TORONTO HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/447.m3u8
+#EXTINF:-1,   GLOBAL VANCOUVER
+http://shacktv.com:8080/live/Ruby1/Ruby123/300.m3u8
+#EXTINF:-1,   GOLF
+http://shacktv.com:8080/live/Ruby1/Ruby123/394.m3u8
+#EXTINF:-1,   GOLF HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/393.m3u8
+#EXTINF:-1,   GSN
+http://shacktv.com:8080/live/Ruby1/Ruby123/392.m3u8
+#EXTINF:-1,   GUSTO
+http://shacktv.com:8080/live/Ruby1/Ruby123/299.m3u8
+#EXTINF:-1,   H2 CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/298.m3u8
+#EXTINF:-1,   HBO 1
+http://shacktv.com:8080/live/Ruby1/Ruby123/391.m3u8
+#EXTINF:-1,   HBO 2
+http://shacktv.com:8080/live/Ruby1/Ruby123/390.m3u8
+#EXTINF:-1,   HGTV
+http://shacktv.com:8080/live/Ruby1/Ruby123/389.m3u8
+#EXTINF:-1,   HISTORIO
+http://shacktv.com:8080/live/Ruby1/Ruby123/297.m3u8
+#EXTINF:-1,   HISTORY HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/388.m3u8
+#EXTINF:-1,   HLN HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/387.m3u8
+#EXTINF:-1,   ICI MONTREAL
+http://shacktv.com:8080/live/Ruby1/Ruby123/296.m3u8
+#EXTINF:-1,   ICI VANCOUVER
+http://shacktv.com:8080/live/Ruby1/Ruby123/295.m3u8
+#EXTINF:-1,   ID CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/386.m3u8
+#EXTINF:-1,   IFC
+http://shacktv.com:8080/live/Ruby1/Ruby123/339.m3u8
+#EXTINF:-1,   KNOWLEDGE KIDS
+http://shacktv.com:8080/live/Ruby1/Ruby123/338.m3u8
+#EXTINF:-1,   KTLA
+http://shacktv.com:8080/live/Ruby1/Ruby123/294.m3u8
+#EXTINF:-1,   LCN
+http://shacktv.com:8080/live/Ruby1/Ruby123/337.m3u8
+#EXTINF:-1,   LIFETIME
+http://shacktv.com:8080/live/Ruby1/Ruby123/292.m3u8
+#EXTINF:-1,   MAX
+http://shacktv.com:8080/live/Ruby1/Ruby123/291.m3u8
+#EXTINF:-1,   METEO
+http://shacktv.com:8080/live/Ruby1/Ruby123/290.m3u8
+#EXTINF:-1,   MIRACLE
+http://shacktv.com:8080/live/Ruby1/Ruby123/335.m3u8
+#EXTINF:-1,   MOI&CIE
+http://shacktv.com:8080/live/Ruby1/Ruby123/385.m3u8
+#EXTINF:-1,   MSNBC
+http://shacktv.com:8080/live/Ruby1/Ruby123/384.m3u8
+#EXTINF:-1,   MOVIETIME HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/383.m3u8
+#EXTINF:-1,   MTV 2
+http://shacktv.com:8080/live/Ruby1/Ruby123/382.m3u8
+#EXTINF:-1,   MUCH MUSIC
+http://shacktv.com:8080/live/Ruby1/Ruby123/289.m3u8
+#EXTINF:-1,   MUSIQUE PLUS
+http://shacktv.com:8080/live/Ruby1/Ruby123/381.m3u8
+#EXTINF:-1,   NAT GEO HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/380.m3u8
+#EXTINF:-1,   NBA TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/379.m3u8
+#EXTINF:-1,   NBC EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/378.m3u8
+#EXTINF:-1,   NBC WEST
+http://shacktv.com:8080/live/Ruby1/Ruby123/377.m3u8
+#EXTINF:-1,   NICK
+http://shacktv.com:8080/live/Ruby1/Ruby123/376.m3u8
+#EXTINF:-1,   NTV
+http://shacktv.com:8080/live/Ruby1/Ruby123/334.m3u8
+#EXTINF:-1,   OLN HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/375.m3u8
+#EXTINF:-1,   OMNI 1 HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/374.m3u8
+#EXTINF:-1,   OMNI 2
+http://shacktv.com:8080/live/Ruby1/Ruby123/288.m3u8
+#EXTINF:-1,   ONE
+http://shacktv.com:8080/live/Ruby1/Ruby123/287.m3u8
+#EXTINF:-1,   OUTTV
+http://shacktv.com:8080/live/Ruby1/Ruby123/373.m3u8
+#EXTINF:-1,   OWN HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/372.m3u8
+#EXTINF:-1,   PBS EAST HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/371.m3u8
+#EXTINF:-1,   PEACH TREE
+http://shacktv.com:8080/live/Ruby1/Ruby123/286.m3u8
+#EXTINF:-1,   PRISE
+http://shacktv.com:8080/live/Ruby1/Ruby123/285.m3u8
+#EXTINF:-1,   RDI
+http://shacktv.com:8080/live/Ruby1/Ruby123/370.m3u8
+#EXTINF:-1,   RDS
+http://shacktv.com:8080/live/Ruby1/Ruby123/284.m3u8
+#EXTINF:-1,   RDS 2
+http://shacktv.com:8080/live/Ruby1/Ruby123/369.m3u8
+#EXTINF:-1,   SERIES +
+http://shacktv.com:8080/live/Ruby1/Ruby123/283.m3u8
+#EXTINF:-1,   SHOPPING
+http://shacktv.com:8080/live/Ruby1/Ruby123/368.m3u8
+#EXTINF:-1,   SHOWCASE EAST HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/367.m3u8
+#EXTINF:-1,   SILVER SCREEN CLASSICS
+http://shacktv.com:8080/live/Ruby1/Ruby123/333.m3u8
+#EXTINF:-1,   SLICE
+http://shacktv.com:8080/live/Ruby1/Ruby123/282.m3u8
+#EXTINF:-1,   SMITHSONIAN
+http://shacktv.com:8080/live/Ruby1/Ruby123/366.m3u8
+#EXTINF:-1,   SPACE
+http://shacktv.com:8080/live/Ruby1/Ruby123/365.m3u8
+#EXTINF:-1,   SPIKE TV / PARAMOUNT CANADA
+http://shacktv.com:8080/live/Ruby1/Ruby123/281.m3u8
+#EXTINF:-1,   SUPER CHANNEL FUSE
+http://shacktv.com:8080/live/Ruby1/Ruby123/363.m3u8
+#EXTINF:-1,   SUPER CHANNEL EART & HOME
+http://shacktv.com:8080/live/Ruby1/Ruby123/362.m3u8
+#EXTINF:-1,   FX HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/332.m3u8
+#EXTINF:-1,   SUPER ECRAN 1
+http://shacktv.com:8080/live/Ruby1/Ruby123/361.m3u8
+#EXTINF:-1,   SUPER ECRAN 2
+http://shacktv.com:8080/live/Ruby1/Ruby123/360.m3u8
+#EXTINF:-1,   SUPER ECRAN 3
+http://shacktv.com:8080/live/Ruby1/Ruby123/359.m3u8
+#EXTINF:-1,   SUPER ECRAN 4
+http://shacktv.com:8080/live/Ruby1/Ruby123/358.m3u8
+#EXTINF:-1,   TCM
+http://shacktv.com:8080/live/Ruby1/Ruby123/357.m3u8
+#EXTINF:-1,   TELE LATINO
+http://shacktv.com:8080/live/Ruby1/Ruby123/280.m3u8
+#EXTINF:-1,   TELE QUEBEC
+http://shacktv.com:8080/live/Ruby1/Ruby123/331.m3u8
+#EXTINF:-1,   TELE TOON EAST
+http://shacktv.com:8080/live/Ruby1/Ruby123/279.m3u8
+#EXTINF:-1,   TELE TOON FRENCH
+http://shacktv.com:8080/live/Ruby1/Ruby123/330.m3u8
+#EXTINF:-1,   TELEMAGINO
+http://shacktv.com:8080/live/Ruby1/Ruby123/356.m3u8
+#EXTINF:-1,   THE WEATHER NETWORK
+http://shacktv.com:8080/live/Ruby1/Ruby123/278.m3u8
+#EXTINF:-1,   TMN 1
+http://shacktv.com:8080/live/Ruby1/Ruby123/277.m3u8
+#EXTINF:-1,   TMN 2
+http://shacktv.com:8080/live/Ruby1/Ruby123/276.m3u8
+#EXTINF:-1,   TMN 3
+http://shacktv.com:8080/live/Ruby1/Ruby123/355.m3u8
+#EXTINF:-1,   TMN 4
+http://shacktv.com:8080/live/Ruby1/Ruby123/275.m3u8
+#EXTINF:-1,   TRAVEL   ESCAPE
+http://shacktv.com:8080/live/Ruby1/Ruby123/329.m3u8
+#EXTINF:-1,   TREEHOUSE
+http://shacktv.com:8080/live/Ruby1/Ruby123/274.m3u8
+#EXTINF:-1,   TV5 QUEBEC
+http://shacktv.com:8080/live/Ruby1/Ruby123/273.m3u8
+#EXTINF:-1,   TVA GATINEAU
+http://shacktv.com:8080/live/Ruby1/Ruby123/272.m3u8
+#EXTINF:-1,   TVA SPORTS
+http://shacktv.com:8080/live/Ruby1/Ruby123/353.m3u8
+#EXTINF:-1,   TVO
+http://shacktv.com:8080/live/Ruby1/Ruby123/271.m3u8
+#EXTINF:-1,   VIE
+http://shacktv.com:8080/live/Ruby1/Ruby123/326.m3u8
+#EXTINF:-1,   VISION
+http://shacktv.com:8080/live/Ruby1/Ruby123/352.m3u8
+#EXTINF:-1,   VRAK TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/351.m3u8
+#EXTINF:-1,   W NETWORK HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/325.m3u8
+#EXTINF:-1,   WFN
+http://shacktv.com:8080/live/Ruby1/Ruby123/324.m3u8
+#EXTINF:-1,   WGN
+http://shacktv.com:8080/live/Ruby1/Ruby123/323.m3u8
+#EXTINF:-1,   Wild TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/322.m3u8
+#EXTINF:-1,   WSBK
+http://shacktv.com:8080/live/Ruby1/Ruby123/350.m3u8
+#EXTINF:-1,   YES TV
+http://shacktv.com:8080/live/Ruby1/Ruby123/270.m3u8
+#EXTINF:-1,   YOOPA
+http://shacktv.com:8080/live/Ruby1/Ruby123/269.m3u8
+#EXTINF:-1,   YTV
+http://shacktv.com:8080/live/Ruby1/Ruby123/321.m3u8
+#EXTINF:-1,   YTV West
+http://shacktv.com:8080/live/Ruby1/Ruby123/349.m3u8
+#EXTINF:-1,   Z TELE
+http://shacktv.com:8080/live/Ruby1/Ruby123/348.m3u8
+#EXTINF:-1,   ZESTE
+http://shacktv.com:8080/live/Ruby1/Ruby123/268.m3u8
+#EXTINF:-1,   SPORTSNET 360 HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/459.m3u8
+#EXTINF:-1,   SPORTSNET EAST HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/458.m3u8
+#EXTINF:-1,   SPORTSNET ONE HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/457.m3u8
+#EXTINF:-1,   SPORTSNET ONTARIO HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/456.m3u8
+#EXTINF:-1,   SPORTSNET PACIFIC
+http://shacktv.com:8080/live/Ruby1/Ruby123/455.m3u8
+#EXTINF:-1,   SPORTSNET WEST HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/454.m3u8
+#EXTINF:-1,   TSN 1 HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/452.m3u8
+#EXTINF:-1,   TSN 2 HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/451.m3u8
+#EXTINF:-1,   TSN 3 HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/450.m3u8
+#EXTINF:-1,   TSN 4 HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/449.m3u8
+#EXTINF:-1,   TSN 5 HD
+http://shacktv.com:8080/live/Ruby1/Ruby123/448.m3u8# 
 #EXTINF:-1,   A&E HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/117.m3u8
 #EXTINF:-1,   A&E HD
@@ -528,17 +654,17 @@ http://shacktv.com:8080/live/Ruby1/Ruby123/199.m3u8
 http://shacktv.com:8080/live/Ruby1/Ruby123/144.m3u8
 #EXTINF:-1,   OXYGEN HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/197.m3u8
-#EXTINF:-1,   PAC-12 (ARIZONA) HD
+#EXTINF:-1,   PAC-12  HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/134.m3u8
-#EXTINF:-1,   PAC-12 (BAY AREA) HD
+#EXTINF:-1,   PAC-12  HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/133.m3u8
-#EXTINF:-1,   PAC-12 (LOS ANGELES) HD
+#EXTINF:-1,   PAC-12  HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/132.m3u8
-#EXTINF:-1,   PAC-12 (NETWORK) HD
+#EXTINF:-1,   PAC-12  HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/130.m3u8
-#EXTINF:-1,   PAC-12 (OREGON) HD
+#EXTINF:-1,   PAC-12  HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/129.m3u8
-#EXTINF:-1,   PAC-12 (WASHINGTON) HD
+#EXTINF:-1,   PAC-12  HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/128.m3u8
 #EXTINF:-1,   PBS HD
 http://shacktv.com:8080/live/Ruby1/Ruby123/196.m3u8
@@ -776,29 +902,29 @@ http://shacktv.com:8080/live/Ruby1/Ruby123/105034.m3u8
 http://shacktv.com:8080/live/Ruby1/Ruby123/105038.m3u8
 #EXTINF:-1,NEWS  WGN NEWS
 http://shacktv.com:8080/live/Ruby1/Ruby123/105040.m3u8
-#EXTINF:-1,NEWS  CBS (WWL – NEW ORLEANS LA) 
+#EXTINF:-1,NEWS  CBS  
 http://shacktv.com:8080/live/Ruby1/Ruby123/61165.m3u8
-#EXTINF:-1,NEWS  Fox 5 NEWS (WASHINTON DC)
+#EXTINF:-1,NEWS  Fox 5 NEWS 
 http://shacktv.com:8080/live/Ruby1/Ruby123/61164.m3u8
-#EXTINF:-1,NEWS  WLTZ FIRST NEWS (WLTZ)
+#EXTINF:-1,NEWS  WLTZ FIRST NEWS 
 http://shacktv.com:8080/live/Ruby1/Ruby123/61163.m3u8
 #EXTINF:-1,NEWS  NBC 4 NEW YORK
 http://shacktv.com:8080/live/Ruby1/Ruby123/61162.m3u8
 #EXTINF:-1,NEWS  NBC 6 MIAMI
 http://shacktv.com:8080/live/Ruby1/Ruby123/61161.m3u8
-#EXTINF:-1,NEWS  NBC 5 NEWS (CHICAGO)
+#EXTINF:-1,NEWS  NBC 5 NEWS 
 http://shacktv.com:8080/live/Ruby1/Ruby123/61160.m3u8
 #EXTINF:-1,NEWS  NBC CHICAGO
 http://shacktv.com:8080/live/Ruby1/Ruby123/61159.m3u8
 #EXTINF:-1,NEWS  WLNY
 http://shacktv.com:8080/live/Ruby1/Ruby123/61158.m3u8
-#EXTINF:-1,NEWS  CBS (KMOV – ST. LOUIS MO) 
+#EXTINF:-1,NEWS  CBS  
 http://shacktv.com:8080/live/Ruby1/Ruby123/61157.m3u8
-#EXTINF:-1,NEWS  WGN NEWS CHICAGO ( )
+#EXTINF:-1,NEWS  WGN NEWS CHICAGO 
 http://shacktv.com:8080/live/Ruby1/Ruby123/61156.m3u8
 #EXTINF:-1,NEWS  CBS LAS VEGAS
 http://shacktv.com:8080/live/Ruby1/Ruby123/61155.m3u8
-#EXTINF:-1,NEWS  WXXV NBC NEWS 25 (MISSISSIPPI)
+#EXTINF:-1,NEWS  WXXV NBC NEWS 25 
 http://shacktv.com:8080/live/Ruby1/Ruby123/61154.m3u8
 #EXTINF:-1,NEWS  NEWS 12 BRONX
 http://shacktv.com:8080/live/Ruby1/Ruby123/111031.m3u8
@@ -1302,27 +1428,27 @@ http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/77.m3u8
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011220.m3u8
 #EXTINF:-1,FR CANAL+  SPORT
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5437.m3u8
-#EXTINF:-1,FR RMC SPORT 1 (H.265)
+#EXTINF:-1,FR RMC SPORT 1 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9169.m3u8
-#EXTINF:-1,FR RMC SPORT 2 (H.265)
+#EXTINF:-1,FR RMC SPORT 2 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9168.m3u8
-#EXTINF:-1,FR RMC SPORT 3 (H.265)
+#EXTINF:-1,FR RMC SPORT 3 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9145.m3u8
-#EXTINF:-1,FR RMC SPORT 4 (H.265)
+#EXTINF:-1,FR RMC SPORT 4 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9144.m3u8
-#EXTINF:-1,FR BEIN 1 SPORT (H.265)
+#EXTINF:-1,FR BEIN 1 SPORT 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9184.m3u8
-#EXTINF:-1,FR BEIN 2 SPORT (H.265)
+#EXTINF:-1,FR BEIN 2 SPORT 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9183.m3u8
-#EXTINF:-1,FR BEIN 3 SPORT (H.265)
+#EXTINF:-1,FR BEIN 3 SPORT 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9182.m3u8
-#EXTINF:-1,FR CANAL+  SPORT (H.265)
+#EXTINF:-1,FR CANAL+  SPORT 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9178.m3u8
-#EXTINF:-1,FR EQUIDIA (H.265)
+#EXTINF:-1,FR EQUIDIA 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9157.m3u8
-#EXTINF:-1,FR EUROSPORT 1 (H.265)
+#EXTINF:-1,FR EUROSPORT 1 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9133.m3u8
-#EXTINF:-1,FR EUROSPORT 2 (H.265)
+#EXTINF:-1,FR EUROSPORT 2 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9132.m3u8
 #EXTINF:-1,BE VOO SPORT 1 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4244.m3u8
@@ -1340,115 +1466,115 @@ http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3501.m3u8
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3614.m3u8
 #EXTINF:-1,BE ELEVEN SPORT 2
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3615.m3u8
-#EXTINF:-1,SUI TELECLUB SPORT 1
+#EXTINF:-1,  TELECLUB SPORT 1
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2727.m3u8
-#EXTINF:-1,SUI TELECLUB SPORT 2
+#EXTINF:-1,  TELECLUB SPORT 2
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/8904.m3u8
-#EXTINF:-1,SUI MYSPORTS 1 FHD
+#EXTINF:-1,  MYSPORTS 1 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9658.m3u8
-#EXTINF:-1,SUI MYSPORTS 2 FHD
+#EXTINF:-1,  MYSPORTS 2 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9657.m3u8
-#EXTINF:-1,SUI MYSPORTS 3 FHD
+#EXTINF:-1,  MYSPORTS 3 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9656.m3u8
-#EXTINF:-1,SUI MYSPORTS 4 FHD
+#EXTINF:-1,  MYSPORTS 4 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9655.m3u8
-#EXTINF:-1,SUI MYSPORTS 5 FHD
+#EXTINF:-1,  MYSPORTS 5 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9654.m3u8
-#EXTINF:-1,SUI MYSPORTS 6 FHD
+#EXTINF:-1,  MYSPORTS 6 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9653.m3u8
-#EXTINF:-1,SUI MYSPORTS 7 FHD
+#EXTINF:-1,  MYSPORTS 7 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9652.m3u8
-#EXTINF:-1,SUI MYSPORTS 8 FHD
+#EXTINF:-1,  MYSPORTS 8 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9651.m3u8
-#EXTINF:-1,SUI MYSPORTS 9 FHD
+#EXTINF:-1,  MYSPORTS 9 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9650.m3u8
-#EXTINF:-1,SUI MYSPORTS FHD
+#EXTINF:-1,  MYSPORTS FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/9649.m3u8
 #EXTINF:-1,======== DESPORTO  ========
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3564.m3u8
-#EXTINF:-1,(PT) NBA HD
+#EXTINF:-1, NBA HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6730.m3u8
-#EXTINF:-1,PT SPORT TV+
+#EXTINF:-1,  SPORT TV+
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2324.m3u8
-#EXTINF:-1,PT SPORT TV 1 HD 720p
+#EXTINF:-1,  SPORT TV 1 HD 720p
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4437.m3u8
-#EXTINF:-1,PT SPORT TV 1 SD
+#EXTINF:-1,  SPORT TV 1 SD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4438.m3u8
-#EXTINF:-1,PT SPORT TV 1 HD
+#EXTINF:-1,  SPORT TV 1 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1721.m3u8
-#EXTINF:-1,PT SPORT TV 2 HD
+#EXTINF:-1,  SPORT TV 2 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1722.m3u8
-#EXTINF:-1,PT SPORT TV 3 HD
+#EXTINF:-1,  SPORT TV 3 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1723.m3u8
-#EXTINF:-1,PT SPORT TV 4 HD
+#EXTINF:-1,  SPORT TV 4 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1724.m3u8
-#EXTINF:-1,PT SPORT TV  5 HD
+#EXTINF:-1,  SPORT TV  5 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2139.m3u8
-#EXTINF:-1,PT SPORT TV 5
+#EXTINF:-1,  SPORT TV 5
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2295.m3u8
-#EXTINF:-1,PT BENFICA TV 1
+#EXTINF:-1,  BENFICA TV 1
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1670.m3u8
-#EXTINF:-1,PT BENFICA TV 2
+#EXTINF:-1,  BENFICA TV 2
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1669.m3u8
-#EXTINF:-1,PT SPORTING TV
+#EXTINF:-1,  SPORTING TV
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1720.m3u8
-#EXTINF:-1,PT EUROSPORT 1
+#EXTINF:-1,  EUROSPORT 1
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1667.m3u8
-#EXTINF:-1,PT EUROSPORT 2
+#EXTINF:-1,  EUROSPORT 2
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1666.m3u8
-#EXTINF:-1,PT PORTO CANAL
+#EXTINF:-1,  PORTO CANAL
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1660.m3u8
-#EXTINF:-1,PT PORTO  CANAL
+#EXTINF:-1,  PORTO  CANAL
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2772.m3u8
-#EXTINF:-1,PT TOROS TV
+#EXTINF:-1,  TOROS TV
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1680.m3u8
-#EXTINF:-1,PT MOTORS TV
+#EXTINF:-1,  MOTORS TV
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1692.m3u8
-#EXTINF:-1,PT FUEL TV
+#EXTINF:-1,  FUEL TV
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1693.m3u8
-#EXTINF:-1,PT  A BOLA TV
+#EXTINF:-1,   A BOLA TV
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1710.m3u8
-#EXTINF:-1,PT EUROSPORT  NEWS
+#EXTINF:-1,  EUROSPORT  NEWS
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2325.m3u8
-#EXTINF:-1,PT MOTORVISION
+#EXTINF:-1,  MOTORVISION
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2327.m3u8
-#EXTINF:-1,PT PFC HD
+#EXTINF:-1,  PFC HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/1686.m3u8
-#EXTINF:-1,(PT) SPORT TV 1 UHD
+#EXTINF:-1, SPORT TV 1 UHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5335.m3u8
-#EXTINF:-1,(PT) SPORT TV + FHD
+#EXTINF:-1, SPORT TV + FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5340.m3u8
-#EXTINF:-1,(PT) SPORT TV 1 FHD
+#EXTINF:-1, SPORT TV 1 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5341.m3u8
-#EXTINF:-1,(PT) SPORT TV 3 FHD
+#EXTINF:-1, SPORT TV 3 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5342.m3u8
-#EXTINF:-1,(PT) SPORT TV 4 FHD
+#EXTINF:-1, SPORT TV 4 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5343.m3u8
-#EXTINF:-1,(PT) SPORT TV 5 FHD
+#EXTINF:-1, SPORT TV 5 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5344.m3u8
-#EXTINF:-1,PT BENFICA TV FHD
+#EXTINF:-1,  BENFICA TV FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4269.m3u8
-#EXTINF:-1,PT SPORT TV 1 FHD
+#EXTINF:-1,  SPORT TV 1 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4445.m3u8
-#EXTINF:-1,PT SPORT TV 2 FHD
+#EXTINF:-1,  SPORT TV 2 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4444.m3u8
-#EXTINF:-1,PT SPORT TV 3 FHD
+#EXTINF:-1,  SPORT TV 3 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4443.m3u8
-#EXTINF:-1,PT SPORT TV 4 FHD
+#EXTINF:-1,  SPORT TV 4 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4441.m3u8
-#EXTINF:-1,PT SPORT TV 5 FHD
+#EXTINF:-1,  SPORT TV 5 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4439.m3u8
-#EXTINF:-1,(PT) ELEVEN SPORTS 1 FHD
+#EXTINF:-1, ELEVEN SPORTS 1 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6510.m3u8
-#EXTINF:-1,(PT) ELEVEN SPORTS 2 FHD
+#EXTINF:-1, ELEVEN SPORTS 2 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6509.m3u8
-#EXTINF:-1,(PT) ELEVEN SPORTS 3 FHD
+#EXTINF:-1, ELEVEN SPORTS 3 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6511.m3u8
-#EXTINF:-1,(PT) ELEVEN SPORTS 5 FHD
+#EXTINF:-1, ELEVEN SPORTS 5 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6513.m3u8
-#EXTINF:-1,(PT) ELEVEN SPORTS 6 FHD
+#EXTINF:-1, ELEVEN SPORTS 6 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6729.m3u8
-#EXTINF:-1,(PT) ELEVEN SPORTS 4 FHD
+#EXTINF:-1, ELEVEN SPORTS 4 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/6512.m3u8
 #EXTINF:-1,-------   Sports -------
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3869.m3u8
@@ -1496,71 +1622,71 @@ http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2885.m3u8
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2883.m3u8
 #EXTINF:-1,   MILAN CHANNEL
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/2884.m3u8
-#EXTINF:-1,( ) SKY SPORT 24 FHD
+#EXTINF:-1, SKY SPORT 24 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011480.m3u8
-#EXTINF:-1,( ) SKY SPORT FOOTBALL FHD
+#EXTINF:-1, SKY SPORT FOOTBALL FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011482.m3u8
-#EXTINF:-1,( ) SKY SPORT UNO FHD
+#EXTINF:-1, SKY SPORT UNO FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011484.m3u8
-#EXTINF:-1,( ) SKY SPORT NBA FHD
+#EXTINF:-1, SKY SPORT NBA FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011490.m3u8
-#EXTINF:-1,( ) SKY SPORT COLLECTION FHD
+#EXTINF:-1, SKY SPORT COLLECTION FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011496.m3u8
-#EXTINF:-1,( ) EUROSPORT 1 FHD
+#EXTINF:-1, EUROSPORT 1 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011498.m3u8
-#EXTINF:-1,( ) EUROSPORT 2 FHD
+#EXTINF:-1, EUROSPORT 2 FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011499.m3u8
-#EXTINF:-1,( ) DAZN BAR 1 HD
+#EXTINF:-1, DAZN BAR 1 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011503.m3u8
-#EXTINF:-1,( ) DAZN SERIE A HD
+#EXTINF:-1, DAZN SERIE A HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011504.m3u8
-#EXTINF:-1,( )  FOOD NETWORK
+#EXTINF:-1,  FOOD NETWORK
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/265011523.m3u8
 #EXTINF:-1,======== DEPORTES ========
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3631.m3u8
-#EXTINF:-1,ES CANAL  GOL
+#EXTINF:-1,  CANAL  GOL
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3928.m3u8
-#EXTINF:-1,ES LIGA 123 HD
+#EXTINF:-1,  LIGA 123 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4044.m3u8
-#EXTINF:-1,ES LA LIGA
+#EXTINF:-1,  LA LIGA
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3191.m3u8
-#EXTINF:-1,ES MOVISTAR DEPORTES 1
+#EXTINF:-1,  MOVISTAR DEPORTES 1
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3155.m3u8
-#EXTINF:-1,ES MOVISTAR LIGA CAMPEONES HD
+#EXTINF:-1,  MOVISTAR LIGA CAMPEONES HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/10284.m3u8
-#EXTINF:-1,ES MOVISTAR VAMOS FHD
+#EXTINF:-1,  MOVISTAR VAMOS FHD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3154.m3u8
-#EXTINF:-1,ES CANAL GOL
+#EXTINF:-1,  CANAL GOL
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3192.m3u8
-#EXTINF:-1,ES BEIN-SPORT SPAIN
+#EXTINF:-1,  BEIN-SPORT SPAIN
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3258.m3u8
-#EXTINF:-1,ES BEIN LA LIGA HD
+#EXTINF:-1,  BEIN LA LIGA HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3636.m3u8
-#EXTINF:-1,ES BEIN LIGA 2
+#EXTINF:-1,  BEIN LIGA 2
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3637.m3u8
-#EXTINF:-1,ES BEIN LIGA 3
+#EXTINF:-1,  BEIN LIGA 3
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3638.m3u8
-#EXTINF:-1,ES LA LIGATV BAR HD
+#EXTINF:-1,  LA LIGATV BAR HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3635.m3u8
-#EXTINF:-1,ES REAL MADRID  TV
+#EXTINF:-1,  REAL MADRID  TV
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3143.m3u8
-#EXTINF:-1,ES BARCA TV
+#EXTINF:-1,  BARCA TV
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3255.m3u8
-#EXTINF:-1,ES MOVISTAR GOLF
+#EXTINF:-1,  MOVISTAR GOLF
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3639.m3u8
-#EXTINF:-1,ES MOVISTAR F1 HD
+#EXTINF:-1,  MOVISTAR F1 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3147.m3u8
-#EXTINF:-1,ES MOVISTAR FUTBOL
+#EXTINF:-1,  MOVISTAR FUTBOL
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3150.m3u8
-#EXTINF:-1,ES MOVISTAR MOTO GP
+#EXTINF:-1,  MOVISTAR MOTO GP
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3146.m3u8
-#EXTINF:-1,ES EUROSPORT 1
+#EXTINF:-1,  EUROSPORT 1
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3222.m3u8
-#EXTINF:-1,ES EUROSPORT 2
+#EXTINF:-1,  EUROSPORT 2
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3221.m3u8
-#EXTINF:-1,ES ESPN
+#EXTINF:-1,  ESPN
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3622.m3u8
-#EXTINF:-1,ES CANAL 26 HD
+#EXTINF:-1,  CANAL 26 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/3585.m3u8
 #EXTINF:-1,----------- SKY   SPORT -----------
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4219.m3u8
@@ -1572,7 +1698,7 @@ http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4259.m3u8
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4260.m3u8
 #EXTINF:-1,  AT THE RACES
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4170.m3u8
-#EXTINF:-1,  BEIN SPORTS 11 (ENGLISH)
+#EXTINF:-1,  BEIN SPORTS 11 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4156.m3u8
 #EXTINF:-1,  BOX NATION HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4178.m3u8
@@ -1676,11 +1802,11 @@ http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4214.m3u8
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/11036.m3u8
 #EXTINF:-1,  SONY SIX SPORT
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4160.m3u8
-#EXTINF:-1,  TSN 2 HD (3PM KICK OFFS)
+#EXTINF:-1,  TSN 2 HD 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4151.m3u8
-#EXTINF:-1,  TSN 3 HD (3PM KICK OFFS)
+#EXTINF:-1,  TSN 3 HD 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4150.m3u8
-#EXTINF:-1,  TSN 4 HD (3PM KICK OFFS)
+#EXTINF:-1,  TSN 4 HD 
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4149.m3u8
 #EXTINF:-1,   : FOX SPORTS 1 HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/4158.m3u8
@@ -1716,365 +1842,425 @@ http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5400.m3u8
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5401.m3u8
 #EXTINF:-1,  ESPN U HD
 http://ultimateiptv.me:8081/live/ABFU/NzG3zm4pEQ/5402.m3u8
-#EXTINF:-1,   A&E
-http://shacktv.com:8080/live/Ruby1/Ruby123/446.m3u8
-#EXTINF:-1,   ABC EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/445.m3u8
-#EXTINF:-1,   ABC SPARK HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/444.m3u8
-#EXTINF:-1,   ABC WEST
-http://shacktv.com:8080/live/Ruby1/Ruby123/443.m3u8
-#EXTINF:-1,   ACTION
-http://shacktv.com:8080/live/Ruby1/Ruby123/347.m3u8
-#EXTINF:-1,   ADDIK TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/346.m3u8
-#EXTINF:-1,   AHC
-http://shacktv.com:8080/live/Ruby1/Ruby123/320.m3u8
-#EXTINF:-1,   AMC HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/442.m3u8
-#EXTINF:-1,   ANIMAL PLANET
-http://shacktv.com:8080/live/Ruby1/Ruby123/441.m3u8
-#EXTINF:-1,   APTN
-http://shacktv.com:8080/live/Ruby1/Ruby123/345.m3u8
-#EXTINF:-1,   ARTV
-http://shacktv.com:8080/live/Ruby1/Ruby123/344.m3u8
-#EXTINF:-1,   BBC CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/343.m3u8
-#EXTINF:-1,   BBC WORLD NEWS
-http://shacktv.com:8080/live/Ruby1/Ruby123/440.m3u8
-#EXTINF:-1,   BET
-http://shacktv.com:8080/live/Ruby1/Ruby123/439.m3u8
-#EXTINF:-1,   BNN BLOOMBERG HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/438.m3u8
-#EXTINF:-1,   BOOK TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/437.m3u8
-#EXTINF:-1,   BRAVO
-http://shacktv.com:8080/live/Ruby1/Ruby123/436.m3u8
-#EXTINF:-1,   CANAL D
-http://shacktv.com:8080/live/Ruby1/Ruby123/341.m3u8
-#EXTINF:-1,   CANAL SAVOIR
-http://shacktv.com:8080/live/Ruby1/Ruby123/435.m3u8
-#EXTINF:-1,   CARTOON NETWORK
-http://shacktv.com:8080/live/Ruby1/Ruby123/434.m3u8
-#EXTINF:-1,   CASA
-http://shacktv.com:8080/live/Ruby1/Ruby123/433.m3u8
-#EXTINF:-1,   CBC NEWS
-http://shacktv.com:8080/live/Ruby1/Ruby123/432.m3u8
-#EXTINF:-1,   CBC OTTAWA
-http://shacktv.com:8080/live/Ruby1/Ruby123/319.m3u8
-#EXTINF:-1,   CBC TORONTO
-http://shacktv.com:8080/live/Ruby1/Ruby123/431.m3u8
-#EXTINF:-1,   CBC VANCOUVER
-http://shacktv.com:8080/live/Ruby1/Ruby123/318.m3u8
-#EXTINF:-1,   CBS EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/430.m3u8
-#EXTINF:-1,   CBS WEST
-http://shacktv.com:8080/live/Ruby1/Ruby123/317.m3u8
-#EXTINF:-1,   CHCH HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/429.m3u8
-#EXTINF:-1,   CINEPOP
-http://shacktv.com:8080/live/Ruby1/Ruby123/316.m3u8
-#EXTINF:-1,   CITY TORONTO HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/428.m3u8
-#EXTINF:-1,   CITY VANCOUVER
-http://shacktv.com:8080/live/Ruby1/Ruby123/340.m3u8
-#EXTINF:-1,   CMT CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/427.m3u8
-#EXTINF:-1,   CNBC
-http://shacktv.com:8080/live/Ruby1/Ruby123/426.m3u8
-#EXTINF:-1,   CNN
-http://shacktv.com:8080/live/Ruby1/Ruby123/425.m3u8
-#EXTINF:-1,   CNN INTERNATIONAL
-http://shacktv.com:8080/live/Ruby1/Ruby123/424.m3u8
-#EXTINF:-1,   COMEDY EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/315.m3u8
-#EXTINF:-1,   COMEDY GOLD
-http://shacktv.com:8080/live/Ruby1/Ruby123/423.m3u8
-#EXTINF:-1,   COOKING CHANNEL
-http://shacktv.com:8080/live/Ruby1/Ruby123/422.m3u8
-#EXTINF:-1,   NATIONAL GEO WILD HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/421.m3u8
-#EXTINF:-1,   COTTAGE LIFE
-http://shacktv.com:8080/live/Ruby1/Ruby123/420.m3u8
-#EXTINF:-1,   CP24
-http://shacktv.com:8080/live/Ruby1/Ruby123/419.m3u8
-#EXTINF:-1,   CPAC FRENCH
-http://shacktv.com:8080/live/Ruby1/Ruby123/417.m3u8
-#EXTINF:-1,   CPAC HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/418.m3u8
-#EXTINF:-1,   CRIME & INVEST
-http://shacktv.com:8080/live/Ruby1/Ruby123/416.m3u8
-#EXTINF:-1,   CTV 2 VANCOUVER
-http://shacktv.com:8080/live/Ruby1/Ruby123/415.m3u8
-#EXTINF:-1,   CTV NEWS NETWORK
-http://shacktv.com:8080/live/Ruby1/Ruby123/414.m3u8
-#EXTINF:-1,   CTV OTTAWA
-http://shacktv.com:8080/live/Ruby1/Ruby123/413.m3u8
-#EXTINF:-1,   CTV TORONTO
-http://shacktv.com:8080/live/Ruby1/Ruby123/412.m3u8
-#EXTINF:-1,   CTV VANCOUVER
-http://shacktv.com:8080/live/Ruby1/Ruby123/314.m3u8
-#EXTINF:-1,   CTV2 OTTAWA
-http://shacktv.com:8080/live/Ruby1/Ruby123/313.m3u8
-#EXTINF:-1,   CW 11
-http://shacktv.com:8080/live/Ruby1/Ruby123/411.m3u8
-#EXTINF:-1,   DAYSTAR TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/410.m3u8
-#EXTINF:-1,   DEJAVIEW
-http://shacktv.com:8080/live/Ruby1/Ruby123/409.m3u8
-#EXTINF:-1,   DISCOVERY CHANNEL HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/312.m3u8
-#EXTINF:-1,   DISCOVERY SCIENCE CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/311.m3u8
-#EXTINF:-1,   DISCOVERY VELOCITY
-http://shacktv.com:8080/live/Ruby1/Ruby123/408.m3u8
-#EXTINF:-1,   DISNEY HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/407.m3u8
-#EXTINF:-1,   DISNEY FRENCH
-http://shacktv.com:8080/live/Ruby1/Ruby123/406.m3u8
-#EXTINF:-1,   DISNEY JR HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/309.m3u8
-#EXTINF:-1,   DIY NETWORK
-http://shacktv.com:8080/live/Ruby1/Ruby123/405.m3u8
-#EXTINF:-1,   DOCUMENTARY
-http://shacktv.com:8080/live/Ruby1/Ruby123/404.m3u8
-#EXTINF:-1,   DTOUR HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/403.m3u8
-#EXTINF:-1,   E! HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/308.m3u8
-#EXTINF:-1,   ENCORE 1 EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/402.m3u8
-#EXTINF:-1,   ENCORE 2 EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/307.m3u8
-#EXTINF:-1,   FAMILY CHRGD
-http://shacktv.com:8080/live/Ruby1/Ruby123/401.m3u8
-#EXTINF:-1,   FAMILY EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/306.m3u8
-#EXTINF:-1,   FIGHT NETWORK
-http://shacktv.com:8080/live/Ruby1/Ruby123/400.m3u8
-#EXTINF:-1,   FOOD NETWORK HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/399.m3u8
-#EXTINF:-1,   FOX EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/304.m3u8
-#EXTINF:-1,   FOX WEST
-http://shacktv.com:8080/live/Ruby1/Ruby123/397.m3u8
-#EXTINF:-1,   FOX NEWS
-http://shacktv.com:8080/live/Ruby1/Ruby123/398.m3u8
-#EXTINF:-1,   FTV CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/303.m3u8
-#EXTINF:-1,   FYI HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/395.m3u8
-#EXTINF:-1,   Game TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/302.m3u8
-#EXTINF:-1,   GINX ESPORTS TV CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/301.m3u8
-#EXTINF:-1,   GLOBAL TORONTO HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/447.m3u8
-#EXTINF:-1,   GLOBAL VANCOUVER
-http://shacktv.com:8080/live/Ruby1/Ruby123/300.m3u8
-#EXTINF:-1,   GOLF
-http://shacktv.com:8080/live/Ruby1/Ruby123/394.m3u8
-#EXTINF:-1,   GOLF HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/393.m3u8
-#EXTINF:-1,   GSN
-http://shacktv.com:8080/live/Ruby1/Ruby123/392.m3u8
-#EXTINF:-1,   GUSTO
-http://shacktv.com:8080/live/Ruby1/Ruby123/299.m3u8
-#EXTINF:-1,   H2 CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/298.m3u8
-#EXTINF:-1,   HBO 1
-http://shacktv.com:8080/live/Ruby1/Ruby123/391.m3u8
-#EXTINF:-1,   HBO 2
-http://shacktv.com:8080/live/Ruby1/Ruby123/390.m3u8
-#EXTINF:-1,   HGTV
-http://shacktv.com:8080/live/Ruby1/Ruby123/389.m3u8
-#EXTINF:-1,   HISTORIO
-http://shacktv.com:8080/live/Ruby1/Ruby123/297.m3u8
-#EXTINF:-1,   HISTORY HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/388.m3u8
-#EXTINF:-1,   HLN HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/387.m3u8
-#EXTINF:-1,   ICI MONTREAL
-http://shacktv.com:8080/live/Ruby1/Ruby123/296.m3u8
-#EXTINF:-1,   ICI VANCOUVER
-http://shacktv.com:8080/live/Ruby1/Ruby123/295.m3u8
-#EXTINF:-1,   ID CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/386.m3u8
-#EXTINF:-1,   IFC
-http://shacktv.com:8080/live/Ruby1/Ruby123/339.m3u8
-#EXTINF:-1,   KNOWLEDGE KIDS
-http://shacktv.com:8080/live/Ruby1/Ruby123/338.m3u8
-#EXTINF:-1,   KTLA
-http://shacktv.com:8080/live/Ruby1/Ruby123/294.m3u8
-#EXTINF:-1,   LCN
-http://shacktv.com:8080/live/Ruby1/Ruby123/337.m3u8
-#EXTINF:-1,   LIFETIME
-http://shacktv.com:8080/live/Ruby1/Ruby123/292.m3u8
-#EXTINF:-1,   MAX
-http://shacktv.com:8080/live/Ruby1/Ruby123/291.m3u8
-#EXTINF:-1,   METEO
-http://shacktv.com:8080/live/Ruby1/Ruby123/290.m3u8
-#EXTINF:-1,   MIRACLE
-http://shacktv.com:8080/live/Ruby1/Ruby123/335.m3u8
-#EXTINF:-1,   MOI&CIE
-http://shacktv.com:8080/live/Ruby1/Ruby123/385.m3u8
-#EXTINF:-1,   MSNBC
-http://shacktv.com:8080/live/Ruby1/Ruby123/384.m3u8
-#EXTINF:-1,   MOVIETIME HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/383.m3u8
-#EXTINF:-1,   MTV 2
-http://shacktv.com:8080/live/Ruby1/Ruby123/382.m3u8
-#EXTINF:-1,   MUCH MUSIC
-http://shacktv.com:8080/live/Ruby1/Ruby123/289.m3u8
-#EXTINF:-1,   MUSIQUE PLUS
-http://shacktv.com:8080/live/Ruby1/Ruby123/381.m3u8
-#EXTINF:-1,   NAT GEO HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/380.m3u8
-#EXTINF:-1,   NBA TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/379.m3u8
-#EXTINF:-1,   NBC EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/378.m3u8
-#EXTINF:-1,   NBC WEST
-http://shacktv.com:8080/live/Ruby1/Ruby123/377.m3u8
-#EXTINF:-1,   NICK
-http://shacktv.com:8080/live/Ruby1/Ruby123/376.m3u8
-#EXTINF:-1,   NTV
-http://shacktv.com:8080/live/Ruby1/Ruby123/334.m3u8
-#EXTINF:-1,   OLN HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/375.m3u8
-#EXTINF:-1,   OMNI 1 HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/374.m3u8
-#EXTINF:-1,   OMNI 2
-http://shacktv.com:8080/live/Ruby1/Ruby123/288.m3u8
-#EXTINF:-1,   ONE
-http://shacktv.com:8080/live/Ruby1/Ruby123/287.m3u8
-#EXTINF:-1,   OUTTV
-http://shacktv.com:8080/live/Ruby1/Ruby123/373.m3u8
-#EXTINF:-1,   OWN HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/372.m3u8
-#EXTINF:-1,   PBS EAST HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/371.m3u8
-#EXTINF:-1,   PEACH TREE
-http://shacktv.com:8080/live/Ruby1/Ruby123/286.m3u8
-#EXTINF:-1,   PRISE
-http://shacktv.com:8080/live/Ruby1/Ruby123/285.m3u8
-#EXTINF:-1,   RDI
-http://shacktv.com:8080/live/Ruby1/Ruby123/370.m3u8
-#EXTINF:-1,   RDS
-http://shacktv.com:8080/live/Ruby1/Ruby123/284.m3u8
-#EXTINF:-1,   RDS 2
-http://shacktv.com:8080/live/Ruby1/Ruby123/369.m3u8
-#EXTINF:-1,   SERIES +
-http://shacktv.com:8080/live/Ruby1/Ruby123/283.m3u8
-#EXTINF:-1,   SHOPPING
-http://shacktv.com:8080/live/Ruby1/Ruby123/368.m3u8
-#EXTINF:-1,   SHOWCASE EAST HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/367.m3u8
-#EXTINF:-1,   SILVER SCREEN CLASSICS
-http://shacktv.com:8080/live/Ruby1/Ruby123/333.m3u8
-#EXTINF:-1,   SLICE
-http://shacktv.com:8080/live/Ruby1/Ruby123/282.m3u8
-#EXTINF:-1,   SMITHSONIAN
-http://shacktv.com:8080/live/Ruby1/Ruby123/366.m3u8
-#EXTINF:-1,   SPACE
-http://shacktv.com:8080/live/Ruby1/Ruby123/365.m3u8
-#EXTINF:-1,   SPIKE TV / PARAMOUNT CANADA
-http://shacktv.com:8080/live/Ruby1/Ruby123/281.m3u8
-#EXTINF:-1,   SUPER CHANNEL FUSE
-http://shacktv.com:8080/live/Ruby1/Ruby123/363.m3u8
-#EXTINF:-1,   SUPER CHANNEL EART & HOME
-http://shacktv.com:8080/live/Ruby1/Ruby123/362.m3u8
-#EXTINF:-1,   FX HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/332.m3u8
-#EXTINF:-1,   SUPER ECRAN 1
-http://shacktv.com:8080/live/Ruby1/Ruby123/361.m3u8
-#EXTINF:-1,   SUPER ECRAN 2
-http://shacktv.com:8080/live/Ruby1/Ruby123/360.m3u8
-#EXTINF:-1,   SUPER ECRAN 3
-http://shacktv.com:8080/live/Ruby1/Ruby123/359.m3u8
-#EXTINF:-1,   SUPER ECRAN 4
-http://shacktv.com:8080/live/Ruby1/Ruby123/358.m3u8
-#EXTINF:-1,   TCM
-http://shacktv.com:8080/live/Ruby1/Ruby123/357.m3u8
-#EXTINF:-1,   TELE LATINO
-http://shacktv.com:8080/live/Ruby1/Ruby123/280.m3u8
-#EXTINF:-1,   TELE QUEBEC
-http://shacktv.com:8080/live/Ruby1/Ruby123/331.m3u8
-#EXTINF:-1,   TELE TOON EAST
-http://shacktv.com:8080/live/Ruby1/Ruby123/279.m3u8
-#EXTINF:-1,   TELE TOON FRENCH
-http://shacktv.com:8080/live/Ruby1/Ruby123/330.m3u8
-#EXTINF:-1,   TELEMAGINO
-http://shacktv.com:8080/live/Ruby1/Ruby123/356.m3u8
-#EXTINF:-1,   THE WEATHER NETWORK
-http://shacktv.com:8080/live/Ruby1/Ruby123/278.m3u8
-#EXTINF:-1,   TMN 1
-http://shacktv.com:8080/live/Ruby1/Ruby123/277.m3u8
-#EXTINF:-1,   TMN 2
-http://shacktv.com:8080/live/Ruby1/Ruby123/276.m3u8
-#EXTINF:-1,   TMN 3
-http://shacktv.com:8080/live/Ruby1/Ruby123/355.m3u8
-#EXTINF:-1,   TMN 4
-http://shacktv.com:8080/live/Ruby1/Ruby123/275.m3u8
-#EXTINF:-1,   TRAVEL   ESCAPE
-http://shacktv.com:8080/live/Ruby1/Ruby123/329.m3u8
-#EXTINF:-1,   TREEHOUSE
-http://shacktv.com:8080/live/Ruby1/Ruby123/274.m3u8
-#EXTINF:-1,   TV5 QUEBEC
-http://shacktv.com:8080/live/Ruby1/Ruby123/273.m3u8
-#EXTINF:-1,   TVA GATINEAU
-http://shacktv.com:8080/live/Ruby1/Ruby123/272.m3u8
-#EXTINF:-1,   TVA SPORTS
-http://shacktv.com:8080/live/Ruby1/Ruby123/353.m3u8
-#EXTINF:-1,   TVO
-http://shacktv.com:8080/live/Ruby1/Ruby123/271.m3u8
-#EXTINF:-1,   VIE
-http://shacktv.com:8080/live/Ruby1/Ruby123/326.m3u8
-#EXTINF:-1,   VISION
-http://shacktv.com:8080/live/Ruby1/Ruby123/352.m3u8
-#EXTINF:-1,   VRAK TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/351.m3u8
-#EXTINF:-1,   W NETWORK HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/325.m3u8
-#EXTINF:-1,   WFN
-http://shacktv.com:8080/live/Ruby1/Ruby123/324.m3u8
-#EXTINF:-1,   WGN
-http://shacktv.com:8080/live/Ruby1/Ruby123/323.m3u8
-#EXTINF:-1,   Wild TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/322.m3u8
-#EXTINF:-1,   WSBK
-http://shacktv.com:8080/live/Ruby1/Ruby123/350.m3u8
-#EXTINF:-1,   YES TV
-http://shacktv.com:8080/live/Ruby1/Ruby123/270.m3u8
-#EXTINF:-1,   YOOPA
-http://shacktv.com:8080/live/Ruby1/Ruby123/269.m3u8
-#EXTINF:-1,   YTV
-http://shacktv.com:8080/live/Ruby1/Ruby123/321.m3u8
-#EXTINF:-1,   YTV West
-http://shacktv.com:8080/live/Ruby1/Ruby123/349.m3u8
-#EXTINF:-1,   Z TELE
-http://shacktv.com:8080/live/Ruby1/Ruby123/348.m3u8
-#EXTINF:-1,   ZESTE
-http://shacktv.com:8080/live/Ruby1/Ruby123/268.m3u8
-#EXTINF:-1,   SPORTSNET 360 HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/459.m3u8
-#EXTINF:-1,   SPORTSNET EAST HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/458.m3u8
-#EXTINF:-1,   SPORTSNET ONE HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/457.m3u8
-#EXTINF:-1,   SPORTSNET ONTARIO HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/456.m3u8
-#EXTINF:-1,   SPORTSNET PACIFIC
-http://shacktv.com:8080/live/Ruby1/Ruby123/455.m3u8
-#EXTINF:-1,   SPORTSNET WEST HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/454.m3u8
-#EXTINF:-1,   TSN 1 HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/452.m3u8
-#EXTINF:-1,   TSN 2 HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/451.m3u8
-#EXTINF:-1,   TSN 3 HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/450.m3u8
-#EXTINF:-1,   TSN 4 HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/449.m3u8
-#EXTINF:-1,   TSN 5 HD
-http://shacktv.com:8080/live/Ruby1/Ruby123/448.m3u8
+#EXTINF:-1, :BoxNationHD
+http://ws-82.gogo-iptv.com/ :BoxNationHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :5SELECT
+http://ws-82.gogo-iptv.com/ :5SELECT/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ChelseaTV
+http://ws-82.gogo-iptv.com/ :ChelseaTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BTSPORTS3HD
+http://ws-82.gogo-iptv.com/ :BTSPORTS3HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CNNHD
+http://ws-82.gogo-iptv.com/ :CNNHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CNNUsa
+http://ws-82.gogo-iptv.com/ :CNNUsa/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCNewsHD
+http://ws-82.gogo-iptv.com/ :BBCNewsHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TG4
+http://ws-82.gogo-iptv.com/ :TG4/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyNewsHD
+http://ws-82.gogo-iptv.com/ :SkyNewsHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BTSportExtra2
+http://ws-82.gogo-iptv.com/ :BTSportExtra2/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Eurosport1HD
+http://ws-82.gogo-iptv.com/ :Eurosport1HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :UniversalChannel
+http://ws-82.gogo-iptv.com/ :UniversalChannel/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCFourHD
+http://ws-82.gogo-iptv.com/ :BBCFourHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BTSPORTS1HD
+http://ws-82.gogo-iptv.com/ :BTSPORTS1HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Eurosport2HD
+http://ws-82.gogo-iptv.com/ :Eurosport2HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyRacingHD
+http://ws-82.gogo-iptv.com/ :SkyRacingHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCParliment
+http://ws-82.gogo-iptv.com/ :BBCParliment/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :5HD
+http://ws-82.gogo-iptv.com/ :5HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Freesports
+http://ws-82.gogo-iptv.com/ :Freesports/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CBSDRAMA
+http://ws-82.gogo-iptv.com/ :CBSDRAMA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :4HD
+http://ws-82.gogo-iptv.com/ :4HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BTSPORTSESPN
+http://ws-82.gogo-iptv.com/ :BTSPORTSESPN/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BTSportExtra1
+http://ws-82.gogo-iptv.com/ :BTSportExtra1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCOneSD
+http://ws-82.gogo-iptv.com/ :BBCOneSD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :4SevenHD
+http://ws-82.gogo-iptv.com/ :4SevenHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :HorseCountry
+http://ws-82.gogo-iptv.com/ :HorseCountry/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BTSPORTS2HD
+http://ws-82.gogo-iptv.com/ :BTSPORTS2HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ForcesTV
+http://ws-82.gogo-iptv.com/ :ForcesTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Formula1
+http://ws-82.gogo-iptv.com/ :Formula1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsNewsHD
+http://ws-82.gogo-iptv.com/ :SkySportsNewsHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsCricketHD
+http://ws-82.gogo-iptv.com/ :SkySportsCricketHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsArenaHD
+http://ws-82.gogo-iptv.com/ :SkySportsArenaHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsF1HD
+http://ws-82.gogo-iptv.com/ :SkySportsF1HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :EirSports1HD
+http://ws-82.gogo-iptv.com/ :EirSports1HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsGolfHD
+http://ws-82.gogo-iptv.com/ :SkySportsGolfHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsFootballHD
+http://ws-82.gogo-iptv.com/ :SkySportsFootballHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsAction
+http://ws-82.gogo-iptv.com/ :SkySportsAction/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsPremierLeagueHD
+http://ws-82.gogo-iptv.com/ :SkySportsPremierLeagueHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsRacing
+http://ws-82.gogo-iptv.com/ :SkySportsRacing/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCONEHD
+http://ws-82.gogo-iptv.com/ :BBCONEHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsMixHD
+http://ws-82.gogo-iptv.com/ :SkySportsMixHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkySportsMainEventHD
+http://ws-82.gogo-iptv.com/ :SkySportsMainEventHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCFourSD
+http://ws-82.gogo-iptv.com/ :BBCFourSD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Alibi+1
+http://ws-82.gogo-iptv.com/ :Alibi-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :LiverpoolTV
+http://ws-82.gogo-iptv.com/ :LiverpoolTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :5STAR
+http://ws-82.gogo-iptv.com/ :5STAR/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :5USA
+http://ws-82.gogo-iptv.com/ :5USA/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :NicktoonsUK
+http://ws-82.gogo-iptv.com/ :NicktoonsUK/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Alibi
+http://ws-82.gogo-iptv.com/ :Alibi/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MANUNITEDTV
+http://ws-82.gogo-iptv.com/ :MANUNITEDTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :5USA+1
+http://ws-82.gogo-iptv.com/ :5USA-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :5Spike
+http://ws-82.gogo-iptv.com/ :5Spike/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCtwoSD
+http://ws-82.gogo-iptv.com/ :BBCtwoSD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BBCTwoHD
+http://ws-82.gogo-iptv.com/ :BBCTwoHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :5STAR+1
+http://ws-82.gogo-iptv.com/ :5STAR-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Channel4+1
+http://ws-82.gogo-iptv.com/ :Channel4-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV2+1
+http://ws-82.gogo-iptv.com/ :ITV2-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ComedyCentral
+http://ws-82.gogo-iptv.com/ :ComedyCentral/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ComedyCentralExtra+1
+http://ws-82.gogo-iptv.com/ :ComedyCentralExtra-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Dave
+http://ws-82.gogo-iptv.com/ :Dave/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ComedyCentralExtra
+http://ws-82.gogo-iptv.com/ :ComedyCentralExtra/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CBSReality
+http://ws-82.gogo-iptv.com/ :CBSReality/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Channel5HD
+http://ws-82.gogo-iptv.com/ :Channel5HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Channel5+1
+http://ws-82.gogo-iptv.com/ :Channel5-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Channel4HD
+http://ws-82.gogo-iptv.com/ :Channel4HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Challenge
+http://ws-82.gogo-iptv.com/ :Challenge/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV2HD
+http://ws-82.gogo-iptv.com/ :ITV2HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Davejavu
+http://ws-82.gogo-iptv.com/ :Davejavu/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ATTHERACES
+http://ws-82.gogo-iptv.com/ :ATTHERACES/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Gold
+http://ws-82.gogo-iptv.com/ :Gold/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Drama
+http://ws-82.gogo-iptv.com/ :Drama/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Pick+1TV
+http://ws-82.gogo-iptv.com/ :Pick-1TV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :E4
+http://ws-82.gogo-iptv.com/ :E4/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :E4+1
+http://ws-82.gogo-iptv.com/ :E4-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :HorrorChannel
+http://ws-82.gogo-iptv.com/ :HorrorChannel/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :HorrorChannel+1
+http://ws-82.gogo-iptv.com/ :HorrorChannel-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Fox
+http://ws-82.gogo-iptv.com/ :Fox/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV3HD
+http://ws-82.gogo-iptv.com/ :ITV3HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV1HD
+http://ws-82.gogo-iptv.com/ :ITV1HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV4HD
+http://ws-82.gogo-iptv.com/ :ITV4HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV+1
+http://ws-82.gogo-iptv.com/ :ITV-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :GOLD+1
+http://ws-82.gogo-iptv.com/ :GOLD-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV4+1
+http://ws-82.gogo-iptv.com/ :ITV4-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITVBe
+http://ws-82.gogo-iptv.com/ :ITVBe/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITV3+1
+http://ws-82.gogo-iptv.com/ :ITV3-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ITVLondon
+http://ws-82.gogo-iptv.com/ :ITVLondon/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyWitness
+http://ws-82.gogo-iptv.com/ :SkyWitness/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :S4CHD
+http://ws-82.gogo-iptv.com/ :S4CHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Really
+http://ws-82.gogo-iptv.com/ :Really/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DisneyChannelHD
+http://ws-82.gogo-iptv.com/ :DisneyChannelHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Universal+1
+http://ws-82.gogo-iptv.com/ :Universal-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :PickTV
+http://ws-82.gogo-iptv.com/ :PickTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TrueEntertainment
+http://ws-82.gogo-iptv.com/ :TrueEntertainment/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :More4HD
+http://ws-82.gogo-iptv.com/ :More4HD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Cartoonito
+http://ws-82.gogo-iptv.com/ :Cartoonito/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :More4+1
+http://ws-82.gogo-iptv.com/ :More4-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Boomerang+1
+http://ws-82.gogo-iptv.com/ :Boomerang-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CartoonNetwork+1
+http://ws-82.gogo-iptv.com/ :CartoonNetwork-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BabyTV
+http://ws-82.gogo-iptv.com/ :BabyTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TrueEntertainment+1
+http://ws-82.gogo-iptv.com/ :TrueEntertainment-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyAtlantics+1
+http://ws-82.gogo-iptv.com/ :SkyAtlantics-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Boomerang
+http://ws-82.gogo-iptv.com/ :Boomerang/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Watch
+http://ws-82.gogo-iptv.com/ :Watch/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CartoonNetwork
+http://ws-82.gogo-iptv.com/ :CartoonNetwork/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Nickelodeon
+http://ws-82.gogo-iptv.com/ :Nickelodeon/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DisneyJuniorHD
+http://ws-82.gogo-iptv.com/ :DisneyJuniorHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CBBCHD
+http://ws-82.gogo-iptv.com/ :CBBCHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CBeeBies
+http://ws-82.gogo-iptv.com/ :CBeeBies/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DisneyChannel+1
+http://ws-82.gogo-iptv.com/ :DisneyChannel-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :CITV
+http://ws-82.gogo-iptv.com/ :CITV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :POP+1
+http://ws-82.gogo-iptv.com/ :POP-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TinyPop
+http://ws-82.gogo-iptv.com/ :TinyPop/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :NickJrtoo
+http://ws-82.gogo-iptv.com/ :NickJrtoo/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :POPMax
+http://ws-82.gogo-iptv.com/ :POPMax/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DisneyXD
+http://ws-82.gogo-iptv.com/ :DisneyXD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :NickJr
+http://ws-82.gogo-iptv.com/ :NickJr/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :POP
+http://ws-82.gogo-iptv.com/ :POP/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :POPMax+1
+http://ws-82.gogo-iptv.com/ :POPMax-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TinyPop+1
+http://ws-82.gogo-iptv.com/ :TinyPop-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaDisney
+http://ws-82.gogo-iptv.com/ :SkyCinemaDisney/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Film4UK
+http://ws-82.gogo-iptv.com/ :Film4UK/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Film4+1
+http://ws-82.gogo-iptv.com/ :Film4-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :LifetimeHD
+http://ws-82.gogo-iptv.com/ :LifetimeHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaAction
+http://ws-82.gogo-iptv.com/ :SkyCinemaAction/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaComedy
+http://ws-82.gogo-iptv.com/ :SkyCinemaComedy/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaDrama
+http://ws-82.gogo-iptv.com/ :SkyCinemaDrama/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaCrimeThriller
+http://ws-82.gogo-iptv.com/ :SkyCinemaCrimeThriller/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Movies4Men+1
+http://ws-82.gogo-iptv.com/ :Movies4Men-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Movies4MenHD
+http://ws-82.gogo-iptv.com/ :Movies4MenHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaSci-fi
+http://ws-82.gogo-iptv.com/ :SkyCinemaSci-fi/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaPremiere+1
+http://ws-82.gogo-iptv.com/ :SkyCinemaPremiere-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaPremiere
+http://ws-82.gogo-iptv.com/ :SkyCinemaPremiere/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SonyMovies
+http://ws-82.gogo-iptv.com/ :SonyMovies/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaGreats
+http://ws-82.gogo-iptv.com/ :SkyCinemaGreats/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaFamily
+http://ws-82.gogo-iptv.com/ :SkyCinemaFamily/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SonyMovies+1
+http://ws-82.gogo-iptv.com/ :SonyMovies-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyCinemaHits
+http://ws-82.gogo-iptv.com/ :SkyCinemaHits/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TakingPictures
+http://ws-82.gogo-iptv.com/ :TakingPictures/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TCMHD
+http://ws-82.gogo-iptv.com/ :TCMHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TCM+1
+http://ws-82.gogo-iptv.com/ :TCM-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TrueMoviesHD
+http://ws-82.gogo-iptv.com/ :TrueMoviesHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TRUEMOVIES+1
+http://ws-82.gogo-iptv.com/ :TRUEMOVIES-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :AnimalPlanet
+http://ws-82.gogo-iptv.com/ :AnimalPlanet/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :AnimalPlanet+1
+http://ws-82.gogo-iptv.com/ :AnimalPlanet-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Crime+Investigation
+http://ws-82.gogo-iptv.com/ :Crime-Investigation/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Discovery
+http://ws-82.gogo-iptv.com/ :Discovery/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryHD
+http://ws-82.gogo-iptv.com/ :DiscoveryHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Discovery+1
+http://ws-82.gogo-iptv.com/ :Discovery-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryHistory
+http://ws-82.gogo-iptv.com/ :DiscoveryHistory/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryHistory+1
+http://ws-82.gogo-iptv.com/ :DiscoveryHistory-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryHomeHealth
+http://ws-82.gogo-iptv.com/ :DiscoveryHomeHealth/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryHomeHealth+1
+http://ws-82.gogo-iptv.com/ :DiscoveryHomeHealth-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryScience
+http://ws-82.gogo-iptv.com/ :DiscoveryScience/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryShed
+http://ws-82.gogo-iptv.com/ :DiscoveryShed/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryTurboUK
+http://ws-82.gogo-iptv.com/ :DiscoveryTurboUK/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DiscoveryTurbo+1
+http://ws-82.gogo-iptv.com/ :DiscoveryTurbo-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DMAX
+http://ws-82.gogo-iptv.com/ :DMAX/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :DMAX+1
+http://ws-82.gogo-iptv.com/ :DMAX-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :H2History
+http://ws-82.gogo-iptv.com/ :H2History/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :InvestigationDiscovery
+http://ws-82.gogo-iptv.com/ :InvestigationDiscovery/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :InvestigationDiscovery+1
+http://ws-82.gogo-iptv.com/ :InvestigationDiscovery-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :NationalGeoChannel
+http://ws-82.gogo-iptv.com/ :NationalGeoChannel/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :NationalGeoWild
+http://ws-82.gogo-iptv.com/ :NationalGeoWild/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Quest
+http://ws-82.gogo-iptv.com/ :Quest/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :QuestRed
+http://ws-82.gogo-iptv.com/ :QuestRed/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SmithsonianHD
+http://ws-82.gogo-iptv.com/ :SmithsonianHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TravelChannel
+http://ws-82.gogo-iptv.com/ :TravelChannel/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TravelChannel+1
+http://ws-82.gogo-iptv.com/ :TravelChannel-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Vice
+http://ws-82.gogo-iptv.com/ :Vice/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Yesterday
+http://ws-82.gogo-iptv.com/ :Yesterday/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Yesterday+1
+http://ws-82.gogo-iptv.com/ :Yesterday-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Blaze
+http://ws-82.gogo-iptv.com/ :Blaze/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :EEntertainment
+http://ws-82.gogo-iptv.com/ :EEntertainment/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Eden
+http://ws-82.gogo-iptv.com/ :Eden/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Eden+1
+http://ws-82.gogo-iptv.com/ :Eden-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :FoodNetwork+1
+http://ws-82.gogo-iptv.com/ :FoodNetwork-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :QUEST+1
+http://ws-82.gogo-iptv.com/ :QUEST-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BoxUpfrontHD
+http://ws-82.gogo-iptv.com/ :BoxUpfrontHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :FoodNetwork
+http://ws-82.gogo-iptv.com/ :FoodNetwork/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Paramount
+http://ws-82.gogo-iptv.com/ :Paramount/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :RealLives
+http://ws-82.gogo-iptv.com/ :RealLives/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SkyArts
+http://ws-82.gogo-iptv.com/ :SkyArts/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Showcase
+http://ws-82.gogo-iptv.com/ :Showcase/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SonyChannel
+http://ws-82.gogo-iptv.com/ :SonyChannel/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SonyCrime
+http://ws-82.gogo-iptv.com/ :SonyCrime/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :SonyCrimeUK+1
+http://ws-82.gogo-iptv.com/ :SonyCrimeUK-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TLC
+http://ws-82.gogo-iptv.com/ :TLC/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TLC+1
+http://ws-82.gogo-iptv.com/ :TLC-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Together
+http://ws-82.gogo-iptv.com/ :Together/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :4Music
+http://ws-82.gogo-iptv.com/ :4Music/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :BoxHits
+http://ws-82.gogo-iptv.com/ :BoxHits/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ChartShowTV
+http://ws-82.gogo-iptv.com/ :ChartShowTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :ClublandTV
+http://ws-82.gogo-iptv.com/ :ClublandTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Kerrang
+http://ws-82.gogo-iptv.com/ :Kerrang/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Kiss
+http://ws-82.gogo-iptv.com/ :Kiss/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :KeepitCountry
+http://ws-82.gogo-iptv.com/ :KeepitCountry/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Magic
+http://ws-82.gogo-iptv.com/ :Magic/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTV
+http://ws-82.gogo-iptv.com/ :MTV/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVOne+1
+http://ws-82.gogo-iptv.com/ :MTVOne-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVBaseHD
+http://ws-82.gogo-iptv.com/ :MTVBaseHD/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MtvClassic
+http://ws-82.gogo-iptv.com/ :MtvClassic/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVClub
+http://ws-82.gogo-iptv.com/ :MTVClub/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVHits
+http://ws-82.gogo-iptv.com/ :MTVHits/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVLIVE
+http://ws-82.gogo-iptv.com/ :MTVLIVE/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVMusic
+http://ws-82.gogo-iptv.com/ :MTVMusic/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVMusic+1
+http://ws-82.gogo-iptv.com/ :MTVMusic-1/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVONG
+http://ws-82.gogo-iptv.com/ :MTVONG/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :MTVRocks
+http://ws-82.gogo-iptv.com/ :MTVRocks/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Now80s
+http://ws-82.gogo-iptv.com/ :Now80s/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :TheVault
+http://ws-82.gogo-iptv.com/ :TheVault/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=
+#EXTINF:-1, :Now90s
+http://ws-82.gogo-iptv.com/ :Now90s/index.m3u8?token=8ulV4MbcGBjHS4Trod6OqRxwKoGG8yZ.phHtqGgK_D6014guokN88rh_p9K9ldTz&org=MTk1LjE4MS4xNjEuMTA5OjgwODA=

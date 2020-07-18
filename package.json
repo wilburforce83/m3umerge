@@ -22,7 +22,7 @@
     "dateformat": "^3.0.3",
     "fluent-ffmpeg": "^2.1.2",
     "iptv-playlist-parser": "^0.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "m3u8stream": "^0.6.5",
     "progress": "^2.0.3",
     "request": "^2.88.0",
